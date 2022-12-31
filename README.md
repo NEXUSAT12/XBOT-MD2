@@ -2,7 +2,7 @@
 
 <h1 align="center">ꪶ𝙓𝘽𝙊𝙏-𝙈𝘿𝟐ꫂ<br></h1>
 <p align="center">
-<img src="" alt="animated" width="540" height="280" />
+<img src="https://media.tenor.com/dJ0Wknn8mEMAAAAM/nexus.gif" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
@@ -23,13 +23,13 @@ Big thanks❤️ to <a href="https://github.com/RaySenpai69" target="_blank">Ray
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
-<a href="https://github.com/NEXUSAT12/XBOT-MD2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD6?color=blue&style=flat-square"></a>
-<a href="https://github.com/NEXUSAT12/XBOT-MD2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD6?color=red&style=flat-square"></a>
-<a href="https://github.com/NEXUSAT12/XBOT-MD2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD6?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/NEXUSAT12/XBOT-MD2"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/NEXUSAT12/XBOT-MD2/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD6?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD6&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/NEXUSAT12/followers"><img title="Followers" src="https://img.shields.io/github/followers/DEVILL-MASCOT?color=red&style=flat-square"></a>
+<a href="https://github.com/NEXUSAT12/XBOT-MD2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DEVILL-MASCOT/XBOT-MD2?color=blue&style=flat-square"></a>
+<a href="https://github.com/NEXUSAT12/XBOT-MD2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DEVILL-MASCOT/XBOT-MD2?color=red&style=flat-square"></a>
+<a href="https://github.com/NEXUSAT12/XBOT-MD2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DEVILL-MASCOT/XBOT-MD2?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/NEXUSAT12/XBOT-MD2"><img title="Open Source" src="https://img.shields.io/badge/Author-X%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/NEXUSAT12/XBOT-MD2/"><img title="Size" src="https://img.shields.io/github/repo-size/DEVILL-MASCOT/XBOT-MD2?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNEXUSAT12%2FXBOT-MD2&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/NEXUSAT12/XBOT-MD2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
@@ -39,9 +39,9 @@ Big thanks❤️ to <a href="https://github.com/RaySenpai69" target="_blank">Ray
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
+<a href="https://wa.me/918130784851"><img src="https://img.shields.io/badge/Contact NEXUS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/KdCiUuENgOFEYJMHV3jZNj"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/channel/UCRD5uB6-PEvolzFUyFGeJpg"><img src="https://img.shields.io/badge/Subscribe NEXUS-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@Nexus_1k" /><br>
 </p>
 
 ## ```Donate Me```
