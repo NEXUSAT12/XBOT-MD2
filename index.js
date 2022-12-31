@@ -182,7 +182,7 @@ let buttons = [
 {buttonId: `wkwwk`, buttonText: {displayText: 'Welcome 💐'}, type: 1}
 ]
 let buttonMessage = {
-document: fs.readFileSync('./nexusMedia/theme/XBOT.xlsx'),
+document: fs.readFileSync('./XBOTMedia/theme/XBOT.xlsx'),
 mimetype: docs,
 jpegThumbnail:nexusWlcm,
 mentions: [num],
@@ -223,7 +223,7 @@ let buttons = [
 {buttonId: `wkwkwk`, buttonText: {displayText: 'Sayonara 🥀'}, type: 1}
 ]
 let buttonMessage = {
-document: fs.readFileSync('./nexusMedia/theme/XBOT.xlsx'),
+document: fs.readFileSync('./XBOTMedia/theme/XBOT.xlsx'),
 mimetype: docs,
 jpegThumbnail:nexusLft,
 mentions: [num],
