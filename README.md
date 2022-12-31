@@ -70,9 +70,8 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD6)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NEXUSAT12/XBOT-MD2/)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/NBj8bq)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DEVILL-MASCOT/XBOT-MD2/)
 
 # Install Manually 👇
 ## `Requirements`
