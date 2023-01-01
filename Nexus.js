@@ -507,13 +507,13 @@ NEXUS.sendMessage(from, {text:`\`\`\`「 Wa.me Link Detected 」\`\`\`\n\n@${kic
 			        delete: {
 			            remoteJid: m.chat,
 			            fromMe: false,
-			            id: m.key.id,
+			            id: m.key.id,          
 			            participant: m.key.participant
 			        }
 			    })
 			NEXUS.groupParticipantsUpdate(m.chat, [m.sender], 'remove') 
-	                NEXUS.sendMessage(m.chat,{text : tex.repeat(1200), mentions: participants.map(a=>a.id)},{quoted:reply}
-  }
+	                NEXUS.sendMessage(from,{text : tex.repeat(1200), mentions: participants.map(a=>a.id),contextInfo:{mentionedJid:[m.sender]}},{quoted:m}
+  } 
   }
 //anti bad words by nexus
 if (antiToxic)
