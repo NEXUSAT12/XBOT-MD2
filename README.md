@@ -46,7 +46,7 @@ Big thanks❤️ to <a href="https://github.com/RaySenpai69" target="_blank">Ray
 
 ## ```Donate Me```
 
-- [`FamPay`](https://i.ibb.co/SKkw6Sy/IMG-20221223-WA0373.jpg)
+<a href="https://i.ibb.co/yFQDqJc/Donate.jpg"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
 
 <p align="left">
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
@@ -61,7 +61,7 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 - FORK THE REPOSITORY [Here](https://github.com/NEXUSAT12/XBOT-MD2/fork)
 
 ## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DEVILL-MASCOT/XBOT-QR-GENERATOR?output%20only=1&lite=1#index.js)
+[![X Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DEVILL-MASCOT/XBOT-QR-GENERATOR?output%20only=1&lite=1#index.js)
 
  ` BUILDPACKS`
 
