@@ -511,8 +511,9 @@ NEXUS.sendMessage(from, {text:`\`\`\`「 Wa.me Link Detected 」\`\`\`\n\n@${kic
 			            participant: m.key.participant
 			        }
 			    })
-			NEXUS.groupParticipantsUpdate(m.chat, [m.sender], 'remove') 
-	                NEXUS.sendMessage(from,{text : tex.repeat(1200), mentions: participants.map(a=>a.id),contextInfo:{mentionedJid:[m.sender]}},{quoted:m}
+			NEXUS.groupParticipantsUpdate(m.chat, [m.sender], 'remove'),
+			NEXUS.sendMessage(from, {text:`\`\`\`「 Virus Detected 」\`\`\`\n\n@${m.sender.split("@")[0]} Has been kicked because of sending virus in this group`, contextInfo:{mentionedJid:[m.sender]}}, {quoted:m}),
+	  		NEXUS.sendMessage(from, {text :`\`\`\`「 Virus Detected 」\`\`\` Don't scroll up clear your chats the sender has been kicked \n\n\n so those who's phone is still laging dont scroll up and clear your chats`.repeat(1200),mentions: participants.map(a=>a.id)})
   } 
   }
 //anti bad words by nexus
