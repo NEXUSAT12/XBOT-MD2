@@ -6268,7 +6268,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'Owner 🌺'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://ibb.co/RTD1cWk`},
+image: {url: `https://i.ibb.co/yFQDqJc/Donate.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -6279,8 +6279,8 @@ title:"I deserve something for my hardwork",
 body: "Click to donate", 
 thumbnail: fs.readFileSync("XBOTMedia/theme/XBOT.jpg"),
 mediaType:1,
-mediaUrl: 'https://ibb.co/RTD1cWk',
-sourceUrl: "https://ibb.co/RTD1cWk"
+mediaUrl: 'https://i.ibb.co/yFQDqJc/Donate.jpg',
+sourceUrl: "https://i.ibb.co/yFQDqJc/Donate.jpg"
 }}
 }
 NEXUS.sendMessage(m.chat, buttonMessage, { quoted: m })
