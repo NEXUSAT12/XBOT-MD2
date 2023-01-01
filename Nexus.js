@@ -148,6 +148,15 @@ if (users == "premium"){ return user[cek].premium }
 }
 if (cek == null) return null
 }
+///////dm chatbot ///////
+
+if (!isCmd && !m.isGroup){
+    const botreply = await axios.get(`http://api.brainshop.ai/get?bid=168758&key=Ci7eNhtxpxxDB5FQ&uid=[uid]&msg=[${budy}]`)
+    txt = `${botreply.data.cnt}`
+    m.reply(txt)
+    }
+
+/////))))))))) /////
 	
 	         //media detect \\
 		const isQuotedImage = type === 'extendedTextMessage' && content.includes('imageMessage')
@@ -502,7 +511,7 @@ NEXUS.sendMessage(from, {text:`\`\`\`「 Wa.me Link Detected 」\`\`\`\n\n@${kic
 			        }
 			    })
 			NEXUS.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
-			NEXUS.sendMessage(from, {text:`\`\`\`「 Virus Detected 」\`\`\`\n\n@${m.sender.split("@")[0]} Has been kicked because of sending virus in this group`, contextInfo:{mentionedJid:[m.sender]}}, {quoted:m})
+reply(`Somebody spammed virus!! Mark as read⚠️\n`.repeat(1200)),mentions:participants.map(a => a.id)
   }
   }
 //anti bad words by nexus
@@ -1267,7 +1276,7 @@ Cieeee, What's Going On❤️💖👀`
                 if (!m.isGroup) throw mess.group
                 if (!isBotAdmins) throw mess.botAdmin
                 if (!isAdmins) throw mess.admin
-let Text = `╭━━━≺●♥ Tag All ♥● ≻━━━╮
+let teks = `╭━━━≺●♥ Tag All ♥● ≻━━━╮
 ┃
 ┃┄┄┄┄┄┄┄┄┄┄┄
 ┃ 𝗚𝗿𝗼𝘂𝗽💕: *${groupMetadata.subject}*
@@ -1276,7 +1285,7 @@ let Text = `╭━━━≺●♥ Tag All ♥● ≻━━━╮
 ┃┄┄┄┄┄┄┄┄┄┄┄
 ┃ 𝗔𝗡𝗡𝗢𝗨𝗡𝗖𝗘𝗥👻:  @${m.sender.split('@')[0]}
 ┗━━━━━━━━□ \n\n╭╼━━━━≺ 𝗠𝗘𝗠𝗕𝗘𝗥𝗦 ≻━━━╾╮\n\n` 
-
+ `
                 for (let mem of participants) {
                 teks += `${themeemoji} @${mem.id.split('@')[0]}\n`
                 }
@@ -1730,7 +1739,8 @@ break
              let tts = await fetchJson(`https://api.akuari.my.id/texttovoice/texttosound_english?query=${text}`)
              NEXUS.sendMessage(m.chat, { audio: { url: tts.result }, mimetype: 'audio/mp4', ptt: true, fileName: `${text}.mp3` }, { quoted: m })
          	}
-         break 
+         break
+         
 	case 'smeme': case 'stickermeme': case 'stickmeme': {
 let { TelegraPh } = require('./lib/uploader')
 if (!text) return m.reply(`Send/Reply Photo With Caption ${prefix + command} *text*`)
@@ -6258,7 +6268,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'Owner 🌺'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://i.ibb.co/w46VQ8D/Picsart-22-10-08-06-46-30-674.jpg`},
+image: {url: `https://ibb.co/RTD1cWk`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -6269,8 +6279,8 @@ title:"I deserve something for my hardwork",
 body: "Click to donate", 
 thumbnail: fs.readFileSync("XBOTMedia/theme/XBOT.jpg"),
 mediaType:1,
-mediaUrl: 'https://i.ibb.co/w46VQ8D/Picsart-22-10-08-06-46-30-674.jpg',
-sourceUrl: "https://i.ibb.co/w46VQ8D/Picsart-22-10-08-06-46-30-674.jpg"
+mediaUrl: 'https://ibb.co/RTD1cWk',
+sourceUrl: "https://ibb.co/RTD1cWk"
 }}
 }
 NEXUS.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -7170,9 +7180,8 @@ NEXUS.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/zSQFF5F/Nukleal.jpg'
 }
 }
 break
-case '🌷':{
-           	
-                if (!isCreator) return m.reply(`${mess.owner}`)
+case 'YOU SHOULD DIE':{
+if (!isCreator) return m.reply(`${mess.owner}`)
 if (args.length == 0) return m.reply(`Amount?\nExample ${prefix+command} 5`)
 amount = `${encodeURI(q)}`
 ydd = `${botname}`
