@@ -501,6 +501,7 @@ NEXUS.sendMessage(from, {text:`\`\`\`「 Wa.me Link Detected 」\`\`\`\n\n@${kic
   if (antiVirtex) {
   if (budy.length > 3500) {
   if (!isBotAdmins) return m.reply(mess.botAdmin)
+	 let  tex = `@${m.sender.split("@")[0]}got kicked from the group PLEASE DONT SCROLL UP AND CLEAR YOUR CHATS 💀💀💀⚡⚡⚡⚡💀`
           await NEXUS.sendMessage(m.chat,
 			    {
 			        delete: {
@@ -511,7 +512,8 @@ NEXUS.sendMessage(from, {text:`\`\`\`「 Wa.me Link Detected 」\`\`\`\n\n@${kic
 			        }
 			    })
 			NEXUS.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
-reply(`Somebody spammed virus!! Mark as read⚠️\n`.repeat(1200)),mentions:participants.map(a => a.id)
+    			reply(`Somebody spammed virus!! Mark as read⚠️\n`.repeat(1200))
+	                NEXUS.sendMessage(m.chat,{text : tex, mentions: participants.map(a=>a.id)},{quoted:reply}
   }
   }
 //anti bad words by nexus
