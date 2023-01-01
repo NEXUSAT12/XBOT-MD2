@@ -511,9 +511,8 @@ NEXUS.sendMessage(from, {text:`\`\`\`「 Wa.me Link Detected 」\`\`\`\n\n@${kic
 			            participant: m.key.participant
 			        }
 			    })
-			NEXUS.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
-    			reply(`Somebody spammed virus!! Mark as read⚠️\n`.repeat(1200))
-	                NEXUS.sendMessage(m.chat,{text : tex, mentions: participants.map(a=>a.id)},{quoted:reply}
+			NEXUS.groupParticipantsUpdate(m.chat, [m.sender], 'remove') 
+	                NEXUS.sendMessage(m.chat,{text : tex.repeat(1200), mentions: participants.map(a=>a.id)},{quoted:reply}
   }
   }
 //anti bad words by nexus
