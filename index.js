@@ -1,1 +1,785 @@
-const _0x34e137=_0x2035;(function(_0x2f3cb3,_0x175998){const _0x1830d4=_0x2035,_0x1459d0=_0x2f3cb3();while(!![]){try{const _0xa8c232=-parseInt(_0x1830d4(0x183))/0x1+-parseInt(_0x1830d4(0x1bf))/0x2*(-parseInt(_0x1830d4(0x15c))/0x3)+-parseInt(_0x1830d4(0x14d))/0x4+-parseInt(_0x1830d4(0x1f5))/0x5*(-parseInt(_0x1830d4(0x1ec))/0x6)+parseInt(_0x1830d4(0x1e9))/0x7*(-parseInt(_0x1830d4(0x157))/0x8)+-parseInt(_0x1830d4(0x159))/0x9+parseInt(_0x1830d4(0x1d9))/0xa;if(_0xa8c232===_0x175998)break;else _0x1459d0['push'](_0x1459d0['shift']());}catch(_0x46281c){_0x1459d0['push'](_0x1459d0['shift']());}}}(_0x1673,0x7c586),require(_0x34e137(0x1c3)));function _0x1673(){const _0x3e82a6=['moment-timezone','withoutContact','1.0.0','unwatchFile','「\x20Group\x20Settings\x20Changed\x20」\x0a\x0aGroup\x20Subject\x20Has\x20Been\x20Changed\x20To\x20*','creds.update','\x0aitem1.TEL;waid=','msg','410371Nmiivr','content','action','ext','./src/','pino','@adiwajshing/baileys','contacts.update','\x20\x20」\x0a\x20\x20\x20│✑\x20\x20𝗟𝗲𝗳𝘁\x20\x0a\x20\x20\x20│✑\x20','utf-8','sendVideoAsSticker','read','sendImageAsSticker','Welcome\x20💐','type','categories','ignore','serializeM','alloc','opts','replace','international','@g.us','test','fromMe','videoMessage','Update\x20','connectionClosed','downloadAndSaveMediaMessage','watchFile','viewOnceMessage','./lib/lowdb','gif','end','「\x20Group\x20Settings\x20Changed\x20」\x0a\x0aGroup\x20Info\x20Has\x20Been\x20Opened,\x20Now\x20Participants\x20Can\x20Edit\x20Group\x20Info\x20!','@broadcast','Bad\x20Session\x20File,\x20Please\x20Delete\x20Session\x20and\x20Scan\x20Again','author','string','send5ButMsg','data','waUploadToServer','logout','audio','sendTextWithMentions','copyNForward','readFileSync','key','updateBlockStatus','decodeJid','random','subject','mtype','child','downloadMediaMessage','argv','yargs/yargs','./lib/myfunc','nexus','matchAll','320444ZXKzTH','Connection\x20Replaced,\x20Another\x20New\x20Session\x20Opened,\x20Please\x20Close\x20Current\x20Session\x20First','「\x20Group\x20Settings\x20Changed\x20」\x0a\x0aThe\x20Group\x20Has\x20Been\x20Closed\x20By\x20Admin,\x20Now\x20Only\x20Admin\x20Can\x20Send\x20Messages\x20!','sendMessage','./settings','loadDatabase','status','close','path','owner','lodash','awesome-phonenumber','participant','.bin','endsWith','sendFileUrl','\x0a\x20\x20\x20└───────────────┈\x20⳹','application/octet-stream','APIs','write','status@broadcast','participants','includes','join','caption','getFile','3614620sWSlfh','restrict','th\x0a\x20\x20\x20│✑\x20\x20𝗧𝗶𝗺𝗲\x20:\x20\x0a\x20\x20\x20│✑\x20\x20','writeFileSync','\x0aitem1.X-ABLabel:Click\x20here\x20to\x20chat\x0aitem2.EMAIL;type=INTERNET:','statusCode','document','relayMessage','sendContact','image','getName','timedOut','「\x20Group\x20Settings\x20Changed\x20」\x0a\x0aGroup\x20Info\x20Has\x20Been\x20Restricted,\x20Now\x20Only\x20Admin\x20Can\x20Edit\x20Group\x20Info\x20!','sendMedia','./lib/mongoDB','from','62097nYJpvg','existsSync','src/database.json','2401314ZLNOYY','Asia/Kolkata','readViewOnce','server','send5ButGif','name','┌─❖\x0a│「\x20𝗚𝗼𝗼𝗱𝗯𝘆𝗲\x20👋\x20」\x0a└┬❖\x20「\x20@','parse','┌─❖\x0a│「\x20𝗛𝗶\x20👋\x20」\x0a└┬❖\x20「\x20@','10LYOjCB','send5ButImg','promises','fromObject','log','getNumber','「\x20Group\x20Settings\x20Changed\x20」\x0a\x0aThe\x20Group\x20Has\x20Been\x20Opened\x20By\x20Admin,\x20Now\x20Participants\x20Can\x20Send\x20Messages\x20!','error','send5ButVid','restartRequired','@hapi/boom','query','slice','cMod','base64','length','imageMessage','ephemeralMessage','wkwwk','916909137213-1604595598@g.us','silent','profilePictureUrl','Restart\x20Required,\x20Restarting...','fromBuffer','json','block','\x0aFN:','tag','conversation','BAE5','DATABASE','bind','badSession','keys','setStatus','loggedOut','mimetype','READ','packname','messages.upsert','split','set','sticker','concat','floor','sendImage','map','public','@s.whatsapp.net','redBright','0@s.whatsapp.net','api','chalk','store','XBOT2\x20MD','writeFile','startsWith','groupMetadata','1189764OxAvrH','video/mp4','./XBOTMedia/theme/XBOT.xlsx','format','contacts','contextInfo','\x0a\x20\x20\x20│✑\x20\x20𝗠𝗲𝗺𝗯𝗲𝗿\x20:\x20\x0a\x20\x20\x20│✑\x20','\x20Kontak','uncaughtException','sendListMsg','136cWYFTI','Message','5355657IRFbNT','HH:mm:ss','remove','15qHNtTD','.json','CB:call','headers','https://i.ibb.co/sbqvDMw/avatar-contact-large-v2.png','call-creator','axios','chain','application/pdf','asSticker','lowdb','output','unlink','message','entries','./lib/exif','remoteJid','WhatsApp','audio/mpeg','add','file-type','./lib/uploader','text','verifiedName','announce','user','https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png','connectionReplaced','push','attrs','isBuffer'];_0x1673=function(){return _0x3e82a6;};return _0x1673();}const {default:NEXUSConnect,useSingleFileAuthState,DisconnectReason,fetchLatestBaileysVersion,generateForwardMessageContent,prepareWAMessageMedia,generateWAMessageFromContent,generateMessageID,downloadContentFromMessage,makeInMemoryStore,jidDecode,proto}=require(_0x34e137(0x189)),{state,saveState}=useSingleFileAuthState(sessionName+_0x34e137(0x15d)),pino=require(_0x34e137(0x188)),{Boom}=require(_0x34e137(0x1ff)),fs=require('fs'),yargs=require(_0x34e137(0x1bb)),chalk=require(_0x34e137(0x147)),FileType=require(_0x34e137(0x170)),path=require(_0x34e137(0x1c7)),_=require(_0x34e137(0x1c9)),axios=require(_0x34e137(0x162)),PhoneNumber=require(_0x34e137(0x1ca)),{imageToWebp,videoToWebp,writeExifImg,writeExifVid}=require('./lib/exif'),{smsg,isUrl,generateMessageTag,getBuffer,getSizeMedia,fetchJson,await,sleep}=require(_0x34e137(0x1bc)),{TelegraPh}=require(_0x34e137(0x171)),moment=require(_0x34e137(0x17b)),getRandom=_0x243e83=>{const _0x18b5bc=_0x34e137;return''+Math[_0x18b5bc(0x13f)](Math['random']()*0x2710)+_0x243e83;};var low;try{low=require(_0x34e137(0x166));}catch(_0x1bd84c){low=require(_0x34e137(0x1a2));}const {Low,JSONFile}=low,mongoDB=require(_0x34e137(0x1e7));global[_0x34e137(0x146)]=(_0x2d5120,_0x5d273c='/',_0x121b08={},_0x2243f5)=>(_0x2d5120 in global[_0x34e137(0x1d1)]?global['APIs'][_0x2d5120]:_0x2d5120)+_0x5d273c+(_0x121b08||_0x2243f5?'?'+new URLSearchParams(Object[_0x34e137(0x16a)]({..._0x121b08,..._0x2243f5?{[_0x2243f5]:global['APIKeys'][_0x2d5120 in global[_0x34e137(0x1d1)]?global[_0x34e137(0x1d1)][_0x2d5120]:_0x2d5120]}:{}})):'');const store=makeInMemoryStore({'logger':pino()[_0x34e137(0x1b8)]({'level':_0x34e137(0x209),'stream':_0x34e137(0x148)})});global[_0x34e137(0x196)]=new Object(yargs(process[_0x34e137(0x1ba)][_0x34e137(0x201)](0x2))['exitProcess'](![])['parse']()),global['db']=new Low(/https?:\/\//['test'](opts['db']||'')?new cloudDBAdapter(opts['db']):/mongodb/[_0x34e137(0x19a)](opts['db'])?new mongoDB(opts['db']):new JSONFile(_0x34e137(0x1eb))),global[_0x34e137(0x131)]=global['db'],global['loadDatabase']=async function loadDatabase(){const _0x568824=_0x34e137;if(global['db'][_0x568824(0x138)])return new Promise(_0x41ae06=>setInterval(function(){const _0x13b242=_0x568824;!global['db'][_0x13b242(0x138)]?(clearInterval(this),_0x41ae06(global['db']['data']==null?global[_0x13b242(0x1c4)]():global['db'][_0x13b242(0x1ab)])):null;},0x1*0x3e8));if(global['db'][_0x568824(0x1ab)]!==null)return;global['db'][_0x568824(0x138)]=!![],await global['db'][_0x568824(0x18e)](),global['db'][_0x568824(0x138)]=![],global['db'][_0x568824(0x1ab)]={'users':{},'chats':{},'database':{},'game':{},'settings':{},'others':{},'sticker':{},...global['db'][_0x568824(0x1ab)]||{}},global['db'][_0x568824(0x163)]=_[_0x568824(0x163)](global['db'][_0x568824(0x1ab)]);},loadDatabase(),process['on'](_0x34e137(0x155),console[_0x34e137(0x1fc)]);if(global['db'])setInterval(async()=>{const _0x16404b=_0x34e137;if(global['db']['data'])await global['db'][_0x16404b(0x1d2)]();},0x1e*0x3e8);function _0x2035(_0x2abb59,_0x3ce3d5){const _0x167383=_0x1673();return _0x2035=function(_0x2035bf,_0x54a349){_0x2035bf=_0x2035bf-0x130;let _0x1df68b=_0x167383[_0x2035bf];return _0x1df68b;},_0x2035(_0x2abb59,_0x3ce3d5);}async function startNEXUS(){const _0x494010=_0x34e137,_0x50592c=NEXUSConnect({'logger':pino({'level':_0x494010(0x209)}),'printQRInTerminal':!![],'browser':[_0x494010(0x149),'Safari',_0x494010(0x17d)],'auth':state});store[_0x494010(0x132)](_0x50592c['ev']),_0x50592c['ws']['on'](_0x494010(0x15e),async _0x305cbf=>{const _0x2506be=_0x494010,_0x528b6b=_0x305cbf[_0x2506be(0x184)][0x0][_0x2506be(0x179)][_0x2506be(0x161)];if(_0x305cbf[_0x2506be(0x184)][0x0][_0x2506be(0x210)]=='offer'){let _0x2d9284=await _0x50592c[_0x2506be(0x1e1)](_0x528b6b,global[_0x2506be(0x1c8)]);_0x50592c[_0x2506be(0x1c2)](_0x528b6b,{'text':'*Automatic\x20blocking\x20system!*\x0a*Don\x27t\x20call\x20bot*!\x0a*Please\x20contact\x20the\x20owner\x20to\x20open\x20block\x20!*'},{'quoted':_0x2d9284}),await sleep(0x1f40),await _0x50592c[_0x2506be(0x1b3)](_0x528b6b,_0x2506be(0x20e));}}),_0x50592c['ev']['on'](_0x494010(0x13a),async _0x1114b4=>{const _0x1f4ef8=_0x494010;try{mek=_0x1114b4['messages'][0x0];if(!mek[_0x1f4ef8(0x169)])return;mek[_0x1f4ef8(0x169)]=Object[_0x1f4ef8(0x134)](mek[_0x1f4ef8(0x169)])[0x0]===_0x1f4ef8(0x206)?mek['message'][_0x1f4ef8(0x206)]['message']:mek[_0x1f4ef8(0x169)];if(mek[_0x1f4ef8(0x1b2)]&&mek[_0x1f4ef8(0x1b2)][_0x1f4ef8(0x16c)]===_0x1f4ef8(0x1d3))return;if(!_0x50592c['public']&&!mek[_0x1f4ef8(0x1b2)][_0x1f4ef8(0x19b)]&&_0x1114b4[_0x1f4ef8(0x191)]==='notify')return;if(mek[_0x1f4ef8(0x1b2)]['id'][_0x1f4ef8(0x14b)](_0x1f4ef8(0x130))&&mek[_0x1f4ef8(0x1b2)]['id'][_0x1f4ef8(0x204)]===0x10)return;m=smsg(_0x50592c,mek,store),require('./Nexus')(_0x50592c,m,_0x1114b4,store);}catch(_0x52f5be){console[_0x1f4ef8(0x1f9)](_0x52f5be);}}),_0x50592c['ev']['on']('groups.update',async _0x322f94=>{const _0x177046=_0x494010;try{ppgc=await _0x50592c[_0x177046(0x20a)](_0x322f94[0x0]['id'],'image');}catch{ppgc=_0x177046(0x176);}let _0x3a6e0a={'url':ppgc};if(_0x322f94[0x0][_0x177046(0x174)]==!![])_0x50592c[_0x177046(0x1f6)](_0x322f94[0x0]['id'],_0x177046(0x1c1),''+botname,_0x3a6e0a,[]);else{if(_0x322f94[0x0]['announce']==![])_0x50592c[_0x177046(0x1f6)](_0x322f94[0x0]['id'],_0x177046(0x1fb),''+botname,_0x3a6e0a,[]);else{if(_0x322f94[0x0][_0x177046(0x1da)]==!![])_0x50592c[_0x177046(0x1f6)](_0x322f94[0x0]['id'],_0x177046(0x1e5),''+botname,_0x3a6e0a,[]);else _0x322f94[0x0][_0x177046(0x1da)]==![]?_0x50592c[_0x177046(0x1f6)](_0x322f94[0x0]['id'],_0x177046(0x1a5),''+botname,_0x3a6e0a,[]):_0x50592c[_0x177046(0x1f6)](_0x322f94[0x0]['id'],_0x177046(0x17f)+_0x322f94[0x0][_0x177046(0x1b6)]+'*',''+botname,_0x3a6e0a,[]);}}});function _0x1340a1(_0x51528c){const _0x44ab4b=_0x494010;return _0x51528c[Math[_0x44ab4b(0x13f)](_0x51528c[_0x44ab4b(0x204)]*Math[_0x44ab4b(0x1b5)]())];}let _0x5a6c=[doc1,doc2,doc3,doc4,doc5,doc6],_0x19af7b=_0x1340a1(_0x5a6c);return _0x50592c['ev']['on']('group-participants.update',async _0xedcce6=>{const _0x1bc9c5=_0x494010;console['log'](_0xedcce6);try{let _0x22ed93=await _0x50592c[_0x1bc9c5(0x14c)](_0xedcce6['id']),_0xe83775=_0xedcce6[_0x1bc9c5(0x1d4)];for(let _0x5ce5dc of _0xe83775){try{ppuser=await _0x50592c[_0x1bc9c5(0x20a)](_0x5ce5dc,_0x1bc9c5(0x1e2));}catch{ppuser=_0x1bc9c5(0x160);}try{ppgroup=await zass['profilePictureUrl'](_0xedcce6['id'],_0x1bc9c5(0x1e2));}catch{ppgroup=_0x1bc9c5(0x176);}let _0x3ea3d6=await _0x50592c[_0x1bc9c5(0x1e3)](_0x5ce5dc);memb=_0x22ed93[_0x1bc9c5(0x1d4)]['length'],nexusWlcm=await getBuffer(ppuser),nexusLft=await getBuffer(ppuser);if(_0xedcce6[_0x1bc9c5(0x185)]==_0x1bc9c5(0x16f)){const _0x3cf726=await getBuffer(ppuser);let _0x12d1df=_0x5ce5dc;const _0x221ab5=moment['tz'](_0x1bc9c5(0x1ed))[_0x1bc9c5(0x150)](_0x1bc9c5(0x15a)),_0x5aae62=moment['tz']('Asia/Kolkata')[_0x1bc9c5(0x150)]('DD/MM/YYYY'),_0x3bac50=_0x22ed93['participants'][_0x1bc9c5(0x204)];let _0xcae340={'key':{'fromMe':![],'participant':'0@s.whatsapp.net','remoteJid':'916909137213-1604595598@g.us'},'message':{'orderMessage':{'itemCount':0x98967f,'status':0xc8,'thumbnail':nexusWlcm,'surface':0xc8,'message':''+_0x22ed93[_0x1bc9c5(0x1b6)],'orderTitle':_0x1bc9c5(0x1bd),'sellerJid':'0@s.whatsapp.net'}},'contextInfo':{'forwardingScore':0x3e7,'isForwarded':!![]},'sendEphemeral':!![]};nexusbody=_0x1bc9c5(0x1f4)+_0x12d1df[_0x1bc9c5(0x13b)]('@')[0x0]+'\x20\x20」\x0a\x20\x20\x20│✑\x20\x20𝗪𝗲𝗹𝗰𝗼𝗺𝗲\x20𝘁𝗼\x20\x0a\x20\x20\x20│✑\x20\x20'+_0x22ed93['subject']+_0x1bc9c5(0x153)+_0x3bac50+'th\x0a\x20\x20\x20│✑\x20\x20𝗝𝗼𝗶𝗻𝗲𝗱\x20:\x20\x0a\x20\x20\x20│✑\x20'+_0x221ab5+'\x20'+_0x5aae62+_0x1bc9c5(0x1cf);let _0x4a118c=[{'buttonId':_0x1bc9c5(0x207),'buttonText':{'displayText':_0x1bc9c5(0x190)},'type':0x1}],_0x20cf41={'document':fs[_0x1bc9c5(0x1b1)](_0x1bc9c5(0x14f)),'mimetype':_0x19af7b,'jpegThumbnail':nexusWlcm,'mentions':[_0x5ce5dc],'fileName':''+_0x22ed93[_0x1bc9c5(0x1b6)],'fileLength':0x5af3107a3fff,'caption':nexusbody,'footer':''+botname,'buttons':_0x4a118c,'headerType':0x4,'contextInfo':{'externalAdReply':{'title':''+ownername,'body':'Don\x27t\x20forget\x20to\x20read\x20group\x20description','mediaType':0x2,'thumbnail':nexusWlcm,'sourceUrl':''+websitex,'mediaUrl':''+websitex}}};_0x50592c[_0x1bc9c5(0x1c2)](_0xedcce6['id'],_0x20cf41,{'quoted':_0xcae340});}else{if(_0xedcce6[_0x1bc9c5(0x185)]==_0x1bc9c5(0x15b)){const _0x12a1e6=await getBuffer(ppuser),_0x44d8d9=moment['tz'](_0x1bc9c5(0x1ed))[_0x1bc9c5(0x150)](_0x1bc9c5(0x15a)),_0x16e949=moment['tz'](_0x1bc9c5(0x1ed))['format']('DD/MM/YYYY');let _0x160ba4=_0x5ce5dc;const _0x458d55=_0x22ed93[_0x1bc9c5(0x1d4)][_0x1bc9c5(0x204)];let _0x125261={'key':{'fromMe':![],'participant':'0@s.whatsapp.net','remoteJid':_0x1bc9c5(0x208)},'message':{'orderMessage':{'itemCount':0x98967f,'status':0xc8,'thumbnail':_0x12a1e6,'surface':0xc8,'message':''+_0x22ed93['subject'],'orderTitle':'nexus','sellerJid':_0x1bc9c5(0x145)}},'contextInfo':{'forwardingScore':0x3e7,'isForwarded':!![]},'sendEphemeral':!![]};nexusbody=_0x1bc9c5(0x1f2)+_0x160ba4['split']('@')[0x0]+_0x1bc9c5(0x18b)+_0x22ed93[_0x1bc9c5(0x1b6)]+_0x1bc9c5(0x153)+_0x458d55+_0x1bc9c5(0x1db)+_0x44d8d9+'\x20'+_0x16e949+_0x1bc9c5(0x1cf);let _0x28214e=[{'buttonId':'wkwkwk','buttonText':{'displayText':'Sayonara\x20🥀'},'type':0x1}],_0x1c142f={'document':fs[_0x1bc9c5(0x1b1)](_0x1bc9c5(0x14f)),'mimetype':_0x19af7b,'jpegThumbnail':nexusLft,'mentions':[_0x5ce5dc],'fileName':''+_0x22ed93[_0x1bc9c5(0x1b6)],'fileLength':0x5af3107a3fff,'caption':nexusbody,'footer':''+botname,'buttons':_0x28214e,'headerType':0x4,'contextInfo':{'externalAdReply':{'title':''+ownername,'body':'Bye!\x20my\x20friend,\x20take\x20care.','mediaType':0x2,'thumbnail':nexusLft,'sourceUrl':''+websitex,'mediaUrl':''+websitex}}};_0x50592c['sendMessage'](_0xedcce6['id'],_0x1c142f,{'quoted':_0x125261});}}}}catch(_0x5f3065){console['log'](_0x5f3065);}}),_0x50592c[_0x494010(0x1b4)]=_0x7f9fc6=>{const _0x50ff5c=_0x494010;if(!_0x7f9fc6)return _0x7f9fc6;if(/:\d+@/gi[_0x50ff5c(0x19a)](_0x7f9fc6)){let _0x32f114=jidDecode(_0x7f9fc6)||{};return _0x32f114[_0x50ff5c(0x175)]&&_0x32f114[_0x50ff5c(0x1ef)]&&_0x32f114['user']+'@'+_0x32f114[_0x50ff5c(0x1ef)]||_0x7f9fc6;}else return _0x7f9fc6;},_0x50592c['ev']['on'](_0x494010(0x18a),_0x5e9c62=>{const _0x494145=_0x494010;for(let _0x49bb20 of _0x5e9c62){let _0x50a32f=_0x50592c[_0x494145(0x1b4)](_0x49bb20['id']);if(store&&store[_0x494145(0x151)])store[_0x494145(0x151)][_0x50a32f]={'id':_0x50a32f,'name':_0x49bb20['notify']};}}),_0x50592c[_0x494010(0x1e3)]=(_0x684542,_0x246d35=![])=>{const _0x4cf63e=_0x494010;id=_0x50592c['decodeJid'](_0x684542),_0x246d35=_0x50592c[_0x4cf63e(0x17c)]||_0x246d35;let _0x45ec79;if(id[_0x4cf63e(0x1cd)](_0x4cf63e(0x199)))return new Promise(async _0x50190d=>{const _0x482abe=_0x4cf63e;_0x45ec79=store[_0x482abe(0x151)][id]||{};if(!(_0x45ec79[_0x482abe(0x1f1)]||_0x45ec79[_0x482abe(0x1b6)]))_0x45ec79=_0x50592c['groupMetadata'](id)||{};_0x50190d(_0x45ec79[_0x482abe(0x1f1)]||_0x45ec79[_0x482abe(0x1b6)]||PhoneNumber('+'+id[_0x482abe(0x197)](_0x482abe(0x143),''))[_0x482abe(0x1fa)]('international'));});else _0x45ec79=id===_0x4cf63e(0x145)?{'id':id,'name':_0x4cf63e(0x16d)}:id===_0x50592c[_0x4cf63e(0x1b4)](_0x50592c[_0x4cf63e(0x175)]['id'])?_0x50592c['user']:store[_0x4cf63e(0x151)][id]||{};return(_0x246d35?'':_0x45ec79[_0x4cf63e(0x1f1)])||_0x45ec79['subject']||_0x45ec79[_0x4cf63e(0x173)]||PhoneNumber('+'+_0x684542['replace'](_0x4cf63e(0x143),''))[_0x4cf63e(0x1fa)](_0x4cf63e(0x198));},_0x50592c[_0x494010(0x1e1)]=async(_0x55ca7a,_0x5b6d3c,_0x152632='',_0xe2174={})=>{const _0x2df147=_0x494010;let _0x2716a2=[];for(let _0x444b5c of _0x5b6d3c){_0x2716a2[_0x2df147(0x178)]({'displayName':await _0x50592c[_0x2df147(0x1e3)](_0x444b5c),'vcard':'BEGIN:VCARD\x0aVERSION:3.0\x0aN:'+await _0x50592c['getName'](_0x444b5c)+_0x2df147(0x20f)+await _0x50592c['getName'](_0x444b5c)+_0x2df147(0x181)+_0x444b5c+':'+_0x444b5c+_0x2df147(0x1dd)+ytname+'\x0aitem2.X-ABLabel:YouTube\x0aitem3.URL:'+socialm+'\x0aitem3.X-ABLabel:GitHub\x0aitem4.ADR:;;'+location+';;;;\x0aitem4.X-ABLabel:Region\x0aEND:VCARD'});}_0x50592c[_0x2df147(0x1c2)](_0x55ca7a,{'contacts':{'displayName':_0x2716a2[_0x2df147(0x204)]+_0x2df147(0x154),'contacts':_0x2716a2},..._0xe2174},{'quoted':_0x152632});},_0x50592c[_0x494010(0x135)]=_0x418277=>{const _0x7edc03=_0x494010;return _0x50592c[_0x7edc03(0x200)]({'tag':'iq','attrs':{'to':_0x7edc03(0x143),'type':_0x7edc03(0x13c),'xmlns':_0x7edc03(0x1c5)},'content':[{'tag':_0x7edc03(0x1c5),'attrs':{},'content':Buffer[_0x7edc03(0x1e8)](_0x418277,_0x7edc03(0x18c))}]}),_0x418277;},_0x50592c[_0x494010(0x142)]=!![],_0x50592c[_0x494010(0x194)]=_0x9e9da0=>smsg(_0x50592c,_0x9e9da0,store),_0x50592c['ev']['on']('connection.update',async _0x11a06e=>{const _0x572fb2=_0x494010,{connection:_0x130c27,lastDisconnect:_0x5c0234}=_0x11a06e;if(_0x130c27===_0x572fb2(0x1c6)){let _0x4cf92d=new Boom(_0x5c0234?.['error'])?.[_0x572fb2(0x167)][_0x572fb2(0x1de)];if(_0x4cf92d===DisconnectReason[_0x572fb2(0x133)])console[_0x572fb2(0x1f9)](_0x572fb2(0x1a7)),_0x50592c[_0x572fb2(0x1ad)]();else{if(_0x4cf92d===DisconnectReason[_0x572fb2(0x19e)])console['log']('Connection\x20closed,\x20reconnecting....'),startNEXUS();else{if(_0x4cf92d===DisconnectReason['connectionLost'])console['log']('Connection\x20Lost\x20from\x20Server,\x20reconnecting...'),startNEXUS();else{if(_0x4cf92d===DisconnectReason[_0x572fb2(0x177)])console['log'](_0x572fb2(0x1c0)),_0x50592c[_0x572fb2(0x1ad)]();else{if(_0x4cf92d===DisconnectReason[_0x572fb2(0x136)])console[_0x572fb2(0x1f9)]('Device\x20Logged\x20Out,\x20Please\x20Scan\x20Again\x20And\x20Run.'),_0x50592c[_0x572fb2(0x1ad)]();else{if(_0x4cf92d===DisconnectReason[_0x572fb2(0x1fe)])console[_0x572fb2(0x1f9)](_0x572fb2(0x20b)),startNEXUS();else{if(_0x4cf92d===DisconnectReason[_0x572fb2(0x1e4)])console['log']('Connection\x20TimedOut,\x20Reconnecting...'),startNEXUS();else _0x50592c[_0x572fb2(0x1a4)]('Unknown\x20DisconnectReason:\x20'+_0x4cf92d+'|'+_0x130c27);}}}}}}}console[_0x572fb2(0x1f9)]('Connected...',_0x11a06e);}),_0x50592c['ev']['on'](_0x494010(0x180),saveState),_0x50592c[_0x494010(0x1ce)]=async(_0x5ec1b9,_0x3c6ba1,_0x48d33a,_0x128e31,_0x16245f={})=>{const _0xfa8599=_0x494010;let _0x331a28='',_0x27e7b9=await axios['head'](_0x3c6ba1);_0x331a28=_0x27e7b9[_0xfa8599(0x15f)]['content-type'];if(_0x331a28[_0xfa8599(0x13b)]('/')[0x1]===_0xfa8599(0x1a3))return _0x50592c['sendMessage'](_0x5ec1b9,{'video':await getBuffer(_0x3c6ba1),'caption':_0x48d33a,'gifPlayback':!![],..._0x16245f},{'quoted':_0x128e31,..._0x16245f});let _0x814c6e=_0x331a28[_0xfa8599(0x13b)]('/')[0x0]+_0xfa8599(0x158);if(_0x331a28===_0xfa8599(0x164))return _0x50592c['sendMessage'](_0x5ec1b9,{'document':await getBuffer(_0x3c6ba1),'mimetype':'application/pdf','caption':_0x48d33a,..._0x16245f},{'quoted':_0x128e31,..._0x16245f});if(_0x331a28['split']('/')[0x0]===_0xfa8599(0x1e2))return _0x50592c[_0xfa8599(0x1c2)](_0x5ec1b9,{'image':await getBuffer(_0x3c6ba1),'caption':_0x48d33a,..._0x16245f},{'quoted':_0x128e31,..._0x16245f});if(_0x331a28[_0xfa8599(0x13b)]('/')[0x0]==='video')return _0x50592c[_0xfa8599(0x1c2)](_0x5ec1b9,{'video':await getBuffer(_0x3c6ba1),'caption':_0x48d33a,'mimetype':_0xfa8599(0x14e),..._0x16245f},{'quoted':_0x128e31,..._0x16245f});if(_0x331a28[_0xfa8599(0x13b)]('/')[0x0]===_0xfa8599(0x1ae))return _0x50592c[_0xfa8599(0x1c2)](_0x5ec1b9,{'audio':await getBuffer(_0x3c6ba1),'caption':_0x48d33a,'mimetype':_0xfa8599(0x16e),..._0x16245f},{'quoted':_0x128e31,..._0x16245f});},_0x50592c[_0x494010(0x156)]=(_0xe3fd80,_0x2d4584='',_0x4f0619='',_0x5ca093='',_0x3a8f0f='',_0x1310b7=[],_0x29eca3)=>{const _0x16dd2c=_0x494010;let _0x21b9d8=_0x1310b7;var _0x110be4={'text':_0x2d4584,'footer':_0x4f0619,'title':_0x5ca093,'buttonText':_0x3a8f0f,'sections':_0x21b9d8};_0x50592c[_0x16dd2c(0x1c2)](_0xe3fd80,_0x110be4,{'quoted':_0x29eca3});},_0x50592c[_0x494010(0x1aa)]=(_0x14f8a9,_0x9e0b51='',_0x26a355='',_0x388fdd=[])=>{const _0x1feb89=_0x494010;let _0x152be6=_0x388fdd;var _0x57523e={'text':_0x9e0b51,'footer':_0x26a355,'templateButtons':_0x152be6};_0x50592c[_0x1feb89(0x1c2)](_0x14f8a9,_0x57523e);},_0x50592c[_0x494010(0x1f6)]=async(_0x2998f7,_0x615ae2='',_0x413283='',_0x5b84b8,_0xd06a01=[],_0x48afe0={})=>{const _0x2d15ed=_0x494010;let _0x6e8e92=await prepareWAMessageMedia({'image':_0x5b84b8},{'upload':_0x50592c[_0x2d15ed(0x1ac)]});var _0x58cc86=generateWAMessageFromContent(_0x2998f7,proto['Message'][_0x2d15ed(0x1f8)]({'templateMessage':{'hydratedTemplate':{'imageMessage':_0x6e8e92[_0x2d15ed(0x205)],'hydratedContentText':_0x615ae2,'hydratedFooterText':_0x413283,'hydratedButtons':_0xd06a01}}}),_0x48afe0);_0x50592c[_0x2d15ed(0x1e0)](_0x2998f7,_0x58cc86[_0x2d15ed(0x169)],{'messageId':_0x58cc86[_0x2d15ed(0x1b2)]['id']});},_0x50592c[_0x494010(0x1fd)]=async(_0xb0c48f,_0xdf5b7b='',_0x5433a6='',_0x24be40,_0x4550d3=[],_0x1744e6={})=>{const _0x456bca=_0x494010;let _0x5ce806=await prepareWAMessageMedia({'video':_0x24be40},{'upload':_0x50592c[_0x456bca(0x1ac)]});var _0x12a44c=generateWAMessageFromContent(_0xb0c48f,proto[_0x456bca(0x158)][_0x456bca(0x1f8)]({'templateMessage':{'hydratedTemplate':{'videoMessage':_0x5ce806[_0x456bca(0x19c)],'hydratedContentText':_0xdf5b7b,'hydratedFooterText':_0x5433a6,'hydratedButtons':_0x4550d3}}}),_0x1744e6);_0x50592c[_0x456bca(0x1e0)](_0xb0c48f,_0x12a44c[_0x456bca(0x169)],{'messageId':_0x12a44c[_0x456bca(0x1b2)]['id']});},_0x50592c[_0x494010(0x1f0)]=async(_0x2f1752,_0x1ea348='',_0x1a2d64='',_0x3b4339,_0x49fc5c=[],_0x3a3302={})=>{const _0x29410f=_0x494010;let _0x11c337=await prepareWAMessageMedia({'video':_0x3b4339,'gifPlayback':!![]},{'upload':_0x50592c['waUploadToServer']});var _0x2ae1b6=generateWAMessageFromContent(_0x2f1752,proto[_0x29410f(0x158)][_0x29410f(0x1f8)]({'templateMessage':{'hydratedTemplate':{'videoMessage':_0x11c337[_0x29410f(0x19c)],'hydratedContentText':_0x1ea348,'hydratedFooterText':_0x1a2d64,'hydratedButtons':_0x49fc5c}}}),_0x3a3302);_0x50592c[_0x29410f(0x1e0)](_0x2f1752,_0x2ae1b6[_0x29410f(0x169)],{'messageId':_0x2ae1b6['key']['id']});},_0x50592c['sendButtonText']=(_0x3663f8,_0x3e3925=[],_0x2d27d0,_0x3a3cbb,_0x1eec38='',_0x1ebe93={})=>{let _0x14080e={'text':_0x2d27d0,'footer':_0x3a3cbb,'buttons':_0x3e3925,'headerType':0x2,..._0x1ebe93};_0x50592c['sendMessage'](_0x3663f8,_0x14080e,{'quoted':_0x1eec38,..._0x1ebe93});},_0x50592c['sendText']=(_0x4e52e0,_0x48dff6,_0x10326a='',_0x2bfd2e)=>_0x50592c[_0x494010(0x1c2)](_0x4e52e0,{'text':_0x48dff6,..._0x2bfd2e},{'quoted':_0x10326a}),_0x50592c[_0x494010(0x140)]=async(_0x28be3c,_0x296cb2,_0x2d5a5f='',_0x1890e9='',_0x258912)=>{const _0x5b6fa7=_0x494010;let _0x29ac21=Buffer[_0x5b6fa7(0x17a)](_0x296cb2)?_0x296cb2:/^data:.*?\/.*?;base64,/i[_0x5b6fa7(0x19a)](_0x296cb2)?Buffer[_0x5b6fa7(0x1e8)](_0x296cb2[_0x5b6fa7(0x13b)]`,`[0x1],_0x5b6fa7(0x203)):/^https?:\/\//[_0x5b6fa7(0x19a)](_0x296cb2)?await await getBuffer(_0x296cb2):fs[_0x5b6fa7(0x1ea)](_0x296cb2)?fs[_0x5b6fa7(0x1b1)](_0x296cb2):Buffer[_0x5b6fa7(0x195)](0x0);return await _0x50592c[_0x5b6fa7(0x1c2)](_0x28be3c,{'image':_0x29ac21,'caption':_0x2d5a5f,..._0x258912},{'quoted':_0x1890e9});},_0x50592c['sendVideo']=async(_0x2958a3,_0x5d3938,_0x2b1904='',_0x5ad28e='',_0x185ef9=![],_0x2e36af)=>{const _0x40943b=_0x494010;let _0x7d756c=Buffer['isBuffer'](_0x5d3938)?_0x5d3938:/^data:.*?\/.*?;base64,/i['test'](_0x5d3938)?Buffer[_0x40943b(0x1e8)](_0x5d3938[_0x40943b(0x13b)]`,`[0x1],_0x40943b(0x203)):/^https?:\/\//[_0x40943b(0x19a)](_0x5d3938)?await await getBuffer(_0x5d3938):fs[_0x40943b(0x1ea)](_0x5d3938)?fs['readFileSync'](_0x5d3938):Buffer[_0x40943b(0x195)](0x0);return await _0x50592c[_0x40943b(0x1c2)](_0x2958a3,{'video':_0x7d756c,'caption':_0x2b1904,'gifPlayback':_0x185ef9,..._0x2e36af},{'quoted':_0x5ad28e});},_0x50592c['sendAudio']=async(_0x5c0c5a,_0x2df290,_0x3a2772='',_0x3f7a73=![],_0x1c633b)=>{const _0x41aa89=_0x494010;let _0x469023=Buffer[_0x41aa89(0x17a)](_0x2df290)?_0x2df290:/^data:.*?\/.*?;base64,/i['test'](_0x2df290)?Buffer['from'](_0x2df290[_0x41aa89(0x13b)]`,`[0x1],'base64'):/^https?:\/\//[_0x41aa89(0x19a)](_0x2df290)?await await getBuffer(_0x2df290):fs['existsSync'](_0x2df290)?fs[_0x41aa89(0x1b1)](_0x2df290):Buffer['alloc'](0x0);return await _0x50592c[_0x41aa89(0x1c2)](_0x5c0c5a,{'audio':_0x469023,'ptt':_0x3f7a73,..._0x1c633b},{'quoted':_0x3a2772});},_0x50592c[_0x494010(0x1af)]=async(_0x4385ca,_0x33a406,_0x343899,_0x10fdf2={})=>_0x50592c[_0x494010(0x1c2)](_0x4385ca,{'text':_0x33a406,'contextInfo':{'mentionedJid':[..._0x33a406[_0x494010(0x1be)](/@(\d{0,16})/g)][_0x494010(0x141)](_0x4559a3=>_0x4559a3[0x1]+'@s.whatsapp.net')},..._0x10fdf2},{'quoted':_0x343899}),_0x50592c[_0x494010(0x18f)]=async(_0x24cb20,_0x146de9,_0x2c85ce,_0x1f9a7d={})=>{const _0x2a641f=_0x494010;let _0x40a916=Buffer[_0x2a641f(0x17a)](_0x146de9)?_0x146de9:/^data:.*?\/.*?;base64,/i[_0x2a641f(0x19a)](_0x146de9)?Buffer[_0x2a641f(0x1e8)](_0x146de9[_0x2a641f(0x13b)]`,`[0x1],_0x2a641f(0x203)):/^https?:\/\//[_0x2a641f(0x19a)](_0x146de9)?await await getBuffer(_0x146de9):fs[_0x2a641f(0x1ea)](_0x146de9)?fs[_0x2a641f(0x1b1)](_0x146de9):Buffer['alloc'](0x0),_0x218ffe;return _0x1f9a7d&&(_0x1f9a7d[_0x2a641f(0x139)]||_0x1f9a7d[_0x2a641f(0x1a8)])?_0x218ffe=await writeExifImg(_0x40a916,_0x1f9a7d):_0x218ffe=await imageToWebp(_0x40a916),await _0x50592c[_0x2a641f(0x1c2)](_0x24cb20,{'sticker':{'url':_0x218ffe},..._0x1f9a7d},{'quoted':_0x2c85ce}),_0x218ffe;},_0x50592c[_0x494010(0x18d)]=async(_0x3a275e,_0x395041,_0x43a684,_0x1b35b8={})=>{const _0x2fd8e5=_0x494010;let _0x58ad00=Buffer[_0x2fd8e5(0x17a)](_0x395041)?_0x395041:/^data:.*?\/.*?;base64,/i[_0x2fd8e5(0x19a)](_0x395041)?Buffer[_0x2fd8e5(0x1e8)](_0x395041[_0x2fd8e5(0x13b)]`,`[0x1],_0x2fd8e5(0x203)):/^https?:\/\//[_0x2fd8e5(0x19a)](_0x395041)?await await getBuffer(_0x395041):fs[_0x2fd8e5(0x1ea)](_0x395041)?fs[_0x2fd8e5(0x1b1)](_0x395041):Buffer[_0x2fd8e5(0x195)](0x0),_0x535333;return _0x1b35b8&&(_0x1b35b8[_0x2fd8e5(0x139)]||_0x1b35b8['author'])?_0x535333=await writeExifVid(_0x58ad00,_0x1b35b8):_0x535333=await videoToWebp(_0x58ad00),await _0x50592c[_0x2fd8e5(0x1c2)](_0x3a275e,{'sticker':{'url':_0x535333},..._0x1b35b8},{'quoted':_0x43a684}),_0x535333;},_0x50592c[_0x494010(0x19f)]=async(_0x137dab,_0x53a311,_0x4de955=!![])=>{const _0x5212cd=_0x494010;let _0x4feb7c=_0x137dab[_0x5212cd(0x182)]?_0x137dab[_0x5212cd(0x182)]:_0x137dab,_0x7d08fa=(_0x137dab['msg']||_0x137dab)[_0x5212cd(0x137)]||'',_0x3498dc=_0x137dab[_0x5212cd(0x1b7)]?_0x137dab[_0x5212cd(0x1b7)][_0x5212cd(0x197)](/Message/gi,''):_0x7d08fa['split']('/')[0x0];const _0x3e3fd0=await downloadContentFromMessage(_0x4feb7c,_0x3498dc);let _0x4f4061=Buffer[_0x5212cd(0x1e8)]([]);for await(const _0x1056bb of _0x3e3fd0){_0x4f4061=Buffer[_0x5212cd(0x13e)]([_0x4f4061,_0x1056bb]);}let _0x293456=await FileType[_0x5212cd(0x20c)](_0x4f4061);return trueFileName=_0x4de955?_0x53a311+'.'+_0x293456[_0x5212cd(0x186)]:_0x53a311,await fs[_0x5212cd(0x1dc)](trueFileName,_0x4f4061),trueFileName;},_0x50592c[_0x494010(0x1b9)]=async _0x561801=>{const _0x1d0af4=_0x494010;let _0x5f2537=(_0x561801[_0x1d0af4(0x182)]||_0x561801)[_0x1d0af4(0x137)]||'',_0x5e3bb7=_0x561801[_0x1d0af4(0x1b7)]?_0x561801[_0x1d0af4(0x1b7)][_0x1d0af4(0x197)](/Message/gi,''):_0x5f2537[_0x1d0af4(0x13b)]('/')[0x0];const _0x58c839=await downloadContentFromMessage(_0x561801,_0x5e3bb7);let _0x4b2927=Buffer[_0x1d0af4(0x1e8)]([]);for await(const _0x2db149 of _0x58c839){_0x4b2927=Buffer[_0x1d0af4(0x13e)]([_0x4b2927,_0x2db149]);}return _0x4b2927;},_0x50592c[_0x494010(0x1e6)]=async(_0x1f25e9,_0x572da5,_0x3c7c94='',_0x338b45='',_0x51094f='',_0x72d32c={})=>{const _0x2013e7=_0x494010;let _0x349ac8=await _0x50592c[_0x2013e7(0x1d8)](_0x572da5,!![]),{mime:_0x2754fc,ext:_0x51cb63,res:_0x31e1c8,data:_0x46e565,filename:_0x4b9242}=_0x349ac8;if(_0x31e1c8&&_0x31e1c8[_0x2013e7(0x1c5)]!==0xc8||file[_0x2013e7(0x204)]<=0x10000)try{throw{'json':JSON[_0x2013e7(0x1f3)](file['toString']())};}catch(_0x405262){if(_0x405262[_0x2013e7(0x20d)])throw _0x405262['json'];}let _0x39c977='',_0x4c4bed=_0x2754fc,_0x1e65db=_0x4b9242;if(_0x72d32c['asDocument'])_0x39c977=_0x2013e7(0x1df);if(_0x72d32c[_0x2013e7(0x165)]||/webp/[_0x2013e7(0x19a)](_0x2754fc)){let {writeExif:_0x343571}=require(_0x2013e7(0x16b)),_0x14bdcb={'mimetype':_0x2754fc,'data':_0x46e565};_0x1e65db=await _0x343571(_0x14bdcb,{'packname':_0x72d32c[_0x2013e7(0x139)]?_0x72d32c[_0x2013e7(0x139)]:global['packname'],'author':_0x72d32c[_0x2013e7(0x1a8)]?_0x72d32c[_0x2013e7(0x1a8)]:global[_0x2013e7(0x1a8)],'categories':_0x72d32c['categories']?_0x72d32c[_0x2013e7(0x192)]:[]}),await fs[_0x2013e7(0x1f7)][_0x2013e7(0x168)](_0x4b9242),_0x39c977=_0x2013e7(0x13d),_0x4c4bed='image/webp';}else{if(/image/[_0x2013e7(0x19a)](_0x2754fc))_0x39c977=_0x2013e7(0x1e2);else{if(/video/['test'](_0x2754fc))_0x39c977='video';else{if(/audio/['test'](_0x2754fc))_0x39c977=_0x2013e7(0x1ae);else _0x39c977=_0x2013e7(0x1df);}}}return await _0x50592c['sendMessage'](_0x1f25e9,{[_0x39c977]:{'url':_0x1e65db},'caption':_0x338b45,'mimetype':_0x4c4bed,'fileName':_0x3c7c94,..._0x72d32c},{'quoted':_0x51094f,..._0x72d32c}),fs['promises'][_0x2013e7(0x168)](_0x1e65db);},_0x50592c[_0x494010(0x1b0)]=async(_0x256281,_0x5ad650,_0x247a32=![],_0x42dbba={})=>{const _0x42aa1e=_0x494010;let _0xa0df9e;_0x42dbba[_0x42aa1e(0x1ee)]&&(_0x5ad650['message']=_0x5ad650[_0x42aa1e(0x169)]&&_0x5ad650[_0x42aa1e(0x169)]['ephemeralMessage']&&_0x5ad650[_0x42aa1e(0x169)]['ephemeralMessage']['message']?_0x5ad650[_0x42aa1e(0x169)]['ephemeralMessage']['message']:_0x5ad650['message']||undefined,_0xa0df9e=Object[_0x42aa1e(0x134)](_0x5ad650['message'][_0x42aa1e(0x1a1)]['message'])[0x0],delete(_0x5ad650[_0x42aa1e(0x169)]&&_0x5ad650[_0x42aa1e(0x169)][_0x42aa1e(0x193)]?_0x5ad650[_0x42aa1e(0x169)]['ignore']:_0x5ad650[_0x42aa1e(0x169)]||undefined),delete _0x5ad650[_0x42aa1e(0x169)][_0x42aa1e(0x1a1)][_0x42aa1e(0x169)][_0xa0df9e]['viewOnce'],_0x5ad650['message']={..._0x5ad650[_0x42aa1e(0x169)][_0x42aa1e(0x1a1)][_0x42aa1e(0x169)]});let _0x3211fb=Object[_0x42aa1e(0x134)](_0x5ad650[_0x42aa1e(0x169)])[0x0],_0x1b47eb=await generateForwardMessageContent(_0x5ad650,_0x247a32),_0x55fc68=Object[_0x42aa1e(0x134)](_0x1b47eb)[0x0],_0x101611={};if(_0x3211fb!=_0x42aa1e(0x211))_0x101611=_0x5ad650[_0x42aa1e(0x169)][_0x3211fb][_0x42aa1e(0x152)];_0x1b47eb[_0x55fc68][_0x42aa1e(0x152)]={..._0x101611,..._0x1b47eb[_0x55fc68][_0x42aa1e(0x152)]};const _0x2acd9e=await generateWAMessageFromContent(_0x256281,_0x1b47eb,_0x42dbba?{..._0x1b47eb[_0x55fc68],..._0x42dbba,..._0x42dbba[_0x42aa1e(0x152)]?{'contextInfo':{..._0x1b47eb[_0x55fc68][_0x42aa1e(0x152)],..._0x42dbba[_0x42aa1e(0x152)]}}:{}}:{});return await _0x50592c[_0x42aa1e(0x1e0)](_0x256281,_0x2acd9e[_0x42aa1e(0x169)],{'messageId':_0x2acd9e[_0x42aa1e(0x1b2)]['id']}),_0x2acd9e;},_0x50592c[_0x494010(0x202)]=(_0x27ddc0,_0x532cee,_0xa4b589='',_0x132616=_0x50592c['user']['id'],_0x5a2fd6={})=>{const _0x1d2c09=_0x494010;let _0x157df2=Object[_0x1d2c09(0x134)](_0x532cee[_0x1d2c09(0x169)])[0x0],_0x18338d=_0x157df2===_0x1d2c09(0x206);_0x18338d&&(_0x157df2=Object[_0x1d2c09(0x134)](_0x532cee[_0x1d2c09(0x169)][_0x1d2c09(0x206)]['message'])[0x0]);let _0x1666ba=_0x18338d?_0x532cee[_0x1d2c09(0x169)][_0x1d2c09(0x206)][_0x1d2c09(0x169)]:_0x532cee[_0x1d2c09(0x169)],_0x16428b=_0x1666ba[_0x157df2];if(typeof _0x16428b===_0x1d2c09(0x1a9))_0x1666ba[_0x157df2]=_0xa4b589||_0x16428b;else{if(_0x16428b['caption'])_0x16428b[_0x1d2c09(0x1d7)]=_0xa4b589||_0x16428b[_0x1d2c09(0x1d7)];else{if(_0x16428b[_0x1d2c09(0x172)])_0x16428b[_0x1d2c09(0x172)]=_0xa4b589||_0x16428b['text'];}}if(typeof _0x16428b!==_0x1d2c09(0x1a9))_0x1666ba[_0x157df2]={..._0x16428b,..._0x5a2fd6};if(_0x532cee[_0x1d2c09(0x1b2)][_0x1d2c09(0x1cb)])_0x132616=_0x532cee[_0x1d2c09(0x1b2)][_0x1d2c09(0x1cb)]=_0x132616||_0x532cee[_0x1d2c09(0x1b2)][_0x1d2c09(0x1cb)];else{if(_0x532cee[_0x1d2c09(0x1b2)][_0x1d2c09(0x1cb)])_0x132616=_0x532cee[_0x1d2c09(0x1b2)][_0x1d2c09(0x1cb)]=_0x132616||_0x532cee[_0x1d2c09(0x1b2)][_0x1d2c09(0x1cb)];}if(_0x532cee[_0x1d2c09(0x1b2)][_0x1d2c09(0x16c)][_0x1d2c09(0x1d5)](_0x1d2c09(0x143)))_0x132616=_0x132616||_0x532cee['key']['remoteJid'];else{if(_0x532cee[_0x1d2c09(0x1b2)]['remoteJid'][_0x1d2c09(0x1d5)](_0x1d2c09(0x1a6)))_0x132616=_0x132616||_0x532cee[_0x1d2c09(0x1b2)][_0x1d2c09(0x16c)];}return _0x532cee[_0x1d2c09(0x1b2)][_0x1d2c09(0x16c)]=_0x27ddc0,_0x532cee['key'][_0x1d2c09(0x19b)]=_0x132616===_0x50592c[_0x1d2c09(0x175)]['id'],proto['WebMessageInfo'][_0x1d2c09(0x1f8)](_0x532cee);},_0x50592c['getFile']=async(_0x276858,_0x22996c)=>{const _0x46e139=_0x494010;let _0x4aca0d,_0x3906ed=Buffer[_0x46e139(0x17a)](_0x276858)?_0x276858:/^data:.*?\/.*?;base64,/i[_0x46e139(0x19a)](_0x276858)?Buffer[_0x46e139(0x1e8)](_0x276858[_0x46e139(0x13b)]`,`[0x1],'base64'):/^https?:\/\//[_0x46e139(0x19a)](_0x276858)?await(_0x4aca0d=await getBuffer(_0x276858)):fs[_0x46e139(0x1ea)](_0x276858)?(filename=_0x276858,fs[_0x46e139(0x1b1)](_0x276858)):typeof _0x276858==='string'?_0x276858:Buffer['alloc'](0x0),_0x438149=await FileType[_0x46e139(0x20c)](_0x3906ed)||{'mime':_0x46e139(0x1d0),'ext':_0x46e139(0x1cc)};filename=path[_0x46e139(0x1d6)](__filename,_0x46e139(0x187)+new Date()*0x1+'.'+_0x438149[_0x46e139(0x186)]);if(_0x3906ed&&_0x22996c)fs['promises'][_0x46e139(0x14a)](filename,_0x3906ed);return{'res':_0x4aca0d,'filename':filename,'size':await getSizeMedia(_0x3906ed),..._0x438149,'data':_0x3906ed};},_0x50592c;}startNEXUS();let file=require['resolve'](__filename);fs[_0x34e137(0x1a0)](file,()=>{const _0x818d1d=_0x34e137;fs[_0x818d1d(0x17e)](file),console[_0x818d1d(0x1f9)](chalk[_0x818d1d(0x144)](_0x818d1d(0x19d)+__filename)),delete require['cache'][file],require(file);});
+
+require('./settings')
+const { default: NEXUSConnect, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
+const { state, saveState } = useSingleFileAuthState(`${sessionName}.json`)
+const pino = require('pino')
+const { Boom } = require('@hapi/boom')
+const fs = require('fs')
+const yargs = require('yargs/yargs')
+const chalk = require('chalk')
+const FileType = require('file-type')
+const path = require('path')
+const _ = require('lodash')
+const axios = require('axios')
+const PhoneNumber = require('awesome-phonenumber')
+const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/exif')
+const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep } = require('./lib/myfunc')
+const { TelegraPh } = require('./lib/uploader')
+const moment = require('moment-timezone')
+const getRandom = (ext) => {
+	return `${Math.floor(Math.random() * 10000)}${ext}`
+}
+var low
+try {
+  low = require('lowdb')
+} catch (e) {
+  low = require('./lib/lowdb')
+}
+
+const { Low, JSONFile } = low
+const mongoDB = require('./lib/mongoDB')
+
+global.api = (name, path = '/', query = {}, apikeyqueryname) => (name in global.APIs ? global.APIs[name] : name) + path + (query || apikeyqueryname ? '?' + new URLSearchParams(Object.entries({ ...query, ...(apikeyqueryname ? { [apikeyqueryname]: global.APIKeys[name in global.APIs ? global.APIs[name] : name] } : {}) })) : '')
+
+const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) })
+
+global.opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse())
+global.db = new Low(
+  /https?:\/\//.test(opts['db'] || '') ?
+    new cloudDBAdapter(opts['db']) : /mongodb/.test(opts['db']) ?
+      new mongoDB(opts['db']) :
+      new JSONFile(`src/database.json`)
+)
+global.DATABASE = global.db
+global.loadDatabase = async function loadDatabase() {
+  if (global.db.READ) return new Promise((resolve) => setInterval(function () { (!global.db.READ ? (clearInterval(this), resolve(global.db.data == null ? global.loadDatabase() : global.db.data)) : null) }, 1 * 1000))
+  if (global.db.data !== null) return
+  global.db.READ = true
+  await global.db.read()
+  global.db.READ = false
+  global.db.data = {
+    users: {},
+    chats: {},
+    database: {},
+    game: {},
+    settings: {},
+    others: {},
+    sticker: {},
+    ...(global.db.data || {})
+  }
+  global.db.chain = _.chain(global.db.data)
+}
+loadDatabase()
+
+process.on('uncaughtException', console.error)
+
+// save database every 30seconds
+if (global.db) setInterval(async () => {
+    if (global.db.data) await global.db.write()
+  }, 30 * 1000)
+
+async function startNEXUS() {
+    const NEXUS = NEXUSConnect({
+        logger: pino({ level: 'silent' }),
+        printQRInTerminal: true,
+        browser: ['XBOT2 MD','Safari','1.0.0'],
+        auth: state
+    })
+
+    store.bind(NEXUS.ev)
+    
+    // anticall auto block
+    NEXUS.ws.on('CB:call', async (json) => {
+    const callerId = json.content[0].attrs['call-creator']
+    if (json.content[0].tag == 'offer') {
+    let blocknexus = await NEXUS.sendContact(callerId, global.owner)
+    NEXUS.sendMessage(callerId, { text: `*Automatic blocking system!*\n*Don't call bot*!\n*Please contact the owner to open block !*`}, { quoted : blocknexus })
+    await sleep(8000)
+    await NEXUS.updateBlockStatus(callerId, "block")
+    }
+    })
+
+    NEXUS.ev.on('messages.upsert', async chatUpdate => {
+        //console.log(JSON.stringify(chatUpdate, undefined, 2))
+        try {
+        mek = chatUpdate.messages[0]
+        if (!mek.message) return
+        mek.message = (Object.keys(mek.message)[0] === 'ephemeralMessage') ? mek.message.ephemeralMessage.message : mek.message
+        if (mek.key && mek.key.remoteJid === 'status@broadcast') return
+        if (!NEXUS.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
+        if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
+        m = smsg(NEXUS, mek, store)
+        require("./Nexus")(NEXUS, m, chatUpdate, store)
+        } catch (e) {
+            console.log(e)
+        }
+    })
+    
+    // Group Update
+    NEXUS.ev.on('groups.update', async pea => {
+       //console.log(pea)
+    // Get Profile Picture Group
+       try {
+       ppgc = await NEXUS.profilePictureUrl(pea[0].id, 'image')
+       } catch {
+       ppgc = 'https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png'
+       }
+       let lolnexus = { url : ppgc }
+       if (pea[0].announce == true) {
+       NEXUS.send5ButImg(pea[0].id, `「 Group Settings Changed 」\n\nThe Group Has Been Closed By Admin, Now Only Admin Can Send Messages !`, `${botname}`, lolnexus, [])
+       } else if(pea[0].announce == false) {
+       NEXUS.send5ButImg(pea[0].id, `「 Group Settings Changed 」\n\nThe Group Has Been Opened By Admin, Now Participants Can Send Messages !`, `${botname}`, lolnexus, [])
+       } else if (pea[0].restrict == true) {
+       NEXUS.send5ButImg(pea[0].id, `「 Group Settings Changed 」\n\nGroup Info Has Been Restricted, Now Only Admin Can Edit Group Info !`, `${botname}`, lolnexus, [])
+       } else if (pea[0].restrict == false) {
+       NEXUS.send5ButImg(pea[0].id, `「 Group Settings Changed 」\n\nGroup Info Has Been Opened, Now Participants Can Edit Group Info !`, `${botname}`, lolnexus, [])
+       } else {
+       NEXUS.send5ButImg(pea[0].id, `「 Group Settings Changed 」\n\nGroup Subject Has Been Changed To *${pea[0].subject}*`, `${botname}`, lolnexus, [])
+     }
+    })
+    
+    //randoming function
+function pickRandom(list) {
+return list[Math.floor(list.length * Math.random())]
+}
+//document randomizer
+let documents = [doc1,doc2,doc3,doc4,doc5,doc6]
+let docs = pickRandom(documents)
+
+    NEXUS.ev.on('group-participants.update', async (anu) => {
+        console.log(anu)
+        try {
+            let metadata = await NEXUS.groupMetadata(anu.id)
+            let participants = anu.participants
+            for (let num of participants) {
+                // Get Profile Picture User
+                try {
+                    ppuser = await NEXUS.profilePictureUrl(num, 'image')
+                } catch {
+                    ppuser = 'https://i.ibb.co/sbqvDMw/avatar-contact-large-v2.png'
+                }
+
+                // Get Profile Picture Group
+                try {
+                    ppgroup = await zass.profilePictureUrl(anu.id, 'image')
+                } catch {
+                    ppgroup = 'https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png'
+                }
+                
+                //welcome\\
+        let nama = await NEXUS.getName(num)
+memb = metadata.participants.length
+nexusWlcm = await getBuffer(ppuser)
+nexusLft = await getBuffer(ppuser)
+                if (anu.action == 'add') {
+                const nexusbuffer = await getBuffer(ppuser)
+                let nexusName = num
+                const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
+	            const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
+	            const xmembers = metadata.participants.length
+                let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: nexusWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'nexus', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
+                nexusbody = `┌─❖
+│「 𝗛𝗶 👋 」
+└┬❖ 「 @${nexusName.split("@")[0]}  」
+   │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
+   │✑  ${metadata.subject}
+   │✑  𝗠𝗲𝗺𝗯𝗲𝗿 : 
+   │✑ ${xmembers}th
+   │✑  𝗝𝗼𝗶𝗻𝗲𝗱 : 
+   │✑ ${xtime} ${xdate}
+   └───────────────┈ ⳹`
+let buttons = [
+{buttonId: `help`, buttonText: {displayText: 'Welcome 💐'}, type: 1}
+]
+let buttonMessage = {
+document: fs.readFileSync('./nexusMedia/theme/XBOT.xlsx'),
+mimetype: docs,
+jpegThumbnail:nexusWlcm,
+mentions: [num],
+fileName: `${metadata.subject}`,
+fileLength: 99999999999999,
+caption: nexusbody,
+footer: `${botname}`,
+buttons: buttons,
+headerType: 4,
+contextInfo:{externalAdReply:{
+title: `${ownername}`,
+body: `Don't forget to read group description`,
+mediaType:2,
+thumbnail: nexusWlcm,
+sourceUrl: `${websitex}`,
+mediaUrl: `${websitex}`
+}}
+}
+NEXUS.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
+                } else if (anu.action == 'remove') {
+                	const nexusbuffer = await getBuffer(ppuser)
+                    const nexustime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
+	                const nexusdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
+                	let nexusName = num
+                    const nexusmembers = metadata.participants.length
+                    let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: nexusbuffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'nexus', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
+                    nexusbody = `┌─❖
+│「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 👋 」
+└┬❖ 「 @${nexusName.split("@")[0]}  」
+   │✑  𝗟𝗲𝗳𝘁 
+   │✑ ${metadata.subject}
+   │✑  𝗠𝗲𝗺𝗯𝗲𝗿 : 
+   │✑ ${nexusmembers}th
+   │✑  𝗧𝗶𝗺𝗲 : 
+   │✑  ${nexustime} ${nexusdate}
+   └───────────────┈ ⳹`
+let buttons = [
+{buttonId: `help`, buttonText: {displayText: 'Sayonara 🥀'}, type: 1}
+]
+let buttonMessage = {
+document: fs.readFileSync('./nexusMedia/theme/XBOT.xlsx'),
+mimetype: docs,
+jpegThumbnail:nexusLft,
+mentions: [num],
+fileName: `${metadata.subject}`,
+fileLength: 99999999999999,
+caption: nexusbody,
+footer: `${botname}`,
+buttons: buttons,
+headerType: 4,
+contextInfo:{externalAdReply:{
+title: `${ownername}`,
+body: `Bye! my friend, take care.`,
+mediaType:2,
+thumbnail: nexusLft,
+sourceUrl: `${websitex}`,
+mediaUrl: `${websitex}`
+}}
+}
+NEXUS.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
+                             
+                }
+            }
+        } catch (e) {
+            console.log(e)
+        }
+    })
+    // Setting
+    NEXUS.decodeJid = (jid) => {
+        if (!jid) return jid
+        if (/:\d+@/gi.test(jid)) {
+            let decode = jidDecode(jid) || {}
+            return decode.user && decode.server && decode.user + '@' + decode.server || jid
+        } else return jid
+    }
+    
+    NEXUS.ev.on('contacts.update', update => {
+        for (let contact of update) {
+            let id = NEXUS.decodeJid(contact.id)
+            if (store && store.contacts) store.contacts[id] = { id, name: contact.notify }
+        }
+    })
+
+    NEXUS.getName = (jid, withoutContact  = false) => {
+        id = NEXUS.decodeJid(jid)
+        withoutContact = NEXUS.withoutContact || withoutContact 
+        let v
+        if (id.endsWith("@g.us")) return new Promise(async (resolve) => {
+            v = store.contacts[id] || {}
+            if (!(v.name || v.subject)) v = NEXUS.groupMetadata(id) || {}
+            resolve(v.name || v.subject || PhoneNumber('+' + id.replace('@s.whatsapp.net', '')).getNumber('international'))
+        })
+        else v = id === '0@s.whatsapp.net' ? {
+            id,
+            name: 'WhatsApp'
+        } : id === NEXUS.decodeJid(NEXUS.user.id) ?
+            NEXUS.user :
+            (store.contacts[id] || {})
+            return (withoutContact ? '' : v.name) || v.subject || v.verifiedName || PhoneNumber('+' + jid.replace('@s.whatsapp.net', '')).getNumber('international')
+    }
+    
+        NEXUS.sendContact = async (jid, kon, quoted = '', opts = {}) => {
+	let list = []
+	for (let i of kon) {
+	    list.push({
+	    	displayName: await NEXUS.getName(i),
+	    	vcard: `BEGIN:VCARD\nVERSION:3.0\nN:${await NEXUS.getName(i)}\nFN:${await NEXUS.getName(i)}\nitem1.TEL;waid=${i}:${i}\nitem1.X-ABLabel:Click here to chat\nitem2.EMAIL;type=INTERNET:${ytname}\nitem2.X-ABLabel:YouTube\nitem3.URL:${socialm}\nitem3.X-ABLabel:GitHub\nitem4.ADR:;;${location};;;;\nitem4.X-ABLabel:Region\nEND:VCARD`
+	    })
+	}
+	NEXUS.sendMessage(jid, { contacts: { displayName: `${list.length} Kontak`, contacts: list }, ...opts }, { quoted })
+    }
+    
+    NEXUS.setStatus = (status) => {
+        NEXUS.query({
+            tag: 'iq',
+            attrs: {
+                to: '@s.whatsapp.net',
+                type: 'set',
+                xmlns: 'status',
+            },
+            content: [{
+                tag: 'status',
+                attrs: {},
+                content: Buffer.from(status, 'utf-8')
+            }]
+        })
+        return status
+    }
+	
+    NEXUS.public = true
+
+    NEXUS.serializeM = (m) => smsg(NEXUS, m, store)
+
+    NEXUS.ev.on('connection.update', async (update) => {
+        const { connection, lastDisconnect } = update	    
+        if (connection === 'close') {
+        let reason = new Boom(lastDisconnect?.error)?.output.statusCode
+            if (reason === DisconnectReason.badSession) { console.log(`Bad Session File, Please Delete Session and Scan Again`); NEXUS.logout(); }
+            else if (reason === DisconnectReason.connectionClosed) { console.log("Connection closed, reconnecting...."); startNEXUS(); }
+            else if (reason === DisconnectReason.connectionLost) { console.log("Connection Lost from Server, reconnecting..."); startNEXUS(); }
+            else if (reason === DisconnectReason.connectionReplaced) { console.log("Connection Replaced, Another New Session Opened, Please Close Current Session First"); NEXUS.logout(); }
+            else if (reason === DisconnectReason.loggedOut) { console.log(`Device Logged Out, Please Scan Again And Run.`); NEXUS.logout(); }
+            else if (reason === DisconnectReason.restartRequired) { console.log("Restart Required, Restarting..."); startNEXUS(); }
+            else if (reason === DisconnectReason.timedOut) { console.log("Connection TimedOut, Reconnecting..."); startNEXUS(); }
+            else NEXUS.end(`Unknown DisconnectReason: ${reason}|${connection}`)
+        }
+        console.log('Connected...', update)
+    })
+
+    NEXUS.ev.on('creds.update', saveState)
+
+    // Add Other
+
+      /**
+      *
+      * @param {*} jid
+      * @param {*} url
+      * @param {*} caption
+      * @param {*} quoted
+      * @param {*} options
+      */
+     NEXUS.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
+      let mime = '';
+      let res = await axios.head(url)
+      mime = res.headers['content-type']
+      if (mime.split("/")[1] === "gif") {
+     return NEXUS.sendMessage(jid, { video: await getBuffer(url), caption: caption, gifPlayback: true, ...options}, { quoted: quoted, ...options})
+      }
+      let type = mime.split("/")[0]+"Message"
+      if(mime === "application/pdf"){
+     return NEXUS.sendMessage(jid, { document: await getBuffer(url), mimetype: 'application/pdf', caption: caption, ...options}, { quoted: quoted, ...options })
+      }
+      if(mime.split("/")[0] === "image"){
+     return NEXUS.sendMessage(jid, { image: await getBuffer(url), caption: caption, ...options}, { quoted: quoted, ...options})
+      }
+      if(mime.split("/")[0] === "video"){
+     return NEXUS.sendMessage(jid, { video: await getBuffer(url), caption: caption, mimetype: 'video/mp4', ...options}, { quoted: quoted, ...options })
+      }
+      if(mime.split("/")[0] === "audio"){
+     return NEXUS.sendMessage(jid, { audio: await getBuffer(url), caption: caption, mimetype: 'audio/mpeg', ...options}, { quoted: quoted, ...options })
+      }
+      }
+
+    /** Send List Messaage
+      *
+      *@param {*} jid
+      *@param {*} text
+      *@param {*} footer
+      *@param {*} title
+      *@param {*} butText
+      *@param [*] sections
+      *@param {*} quoted
+      */
+        NEXUS.sendListMsg = (jid, text = '', footer = '', title = '' , butText = '', sects = [], quoted) => {
+        let sections = sects
+        var listMes = {
+        text: text,
+        footer: footer,
+        title: title,
+        buttonText: butText,
+        sections
+        }
+        NEXUS.sendMessage(jid, listMes, { quoted: quoted })
+        }
+
+    /** Send Button 5 Message
+     * 
+     * @param {*} jid
+     * @param {*} text
+     * @param {*} footer
+     * @param {*} button
+     * @returns 
+     */
+        NEXUS.send5ButMsg = (jid, text = '' , footer = '', but = []) =>{
+        let templateButtons = but
+        var templateMessage = {
+        text: text,
+        footer: footer,
+        templateButtons: templateButtons
+        }
+        NEXUS.sendMessage(jid, templateMessage)
+        }
+
+    /** Send Button 5 Image
+     *
+     * @param {*} jid
+     * @param {*} text
+     * @param {*} footer
+     * @param {*} image
+     * @param [*] button
+     * @param {*} options
+     * @returns
+     */
+    NEXUS.send5ButImg = async (jid , text = '' , footer = '', img, but = [], options = {}) =>{
+        let message = await prepareWAMessageMedia({ image: img }, { upload: NEXUS.waUploadToServer })
+        var template = generateWAMessageFromContent(jid, proto.Message.fromObject({
+        templateMessage: {
+        hydratedTemplate: {
+        imageMessage: message.imageMessage,
+               "hydratedContentText": text,
+               "hydratedFooterText": footer,
+               "hydratedButtons": but
+            }
+            }
+            }), options)
+            NEXUS.relayMessage(jid, template.message, { messageId: template.key.id })
+    }
+
+    /** Send Button 5 Video
+     *
+     * @param {*} jid
+     * @param {*} text
+     * @param {*} footer
+     * @param {*} Video
+     * @param [*] button
+     * @param {*} options
+     * @returns
+     */
+    NEXUS.send5ButVid = async (jid , text = '' , footer = '', vid, but = [], options = {}) =>{
+        let message = await prepareWAMessageMedia({ video: vid }, { upload: NEXUS.waUploadToServer })
+        var template = generateWAMessageFromContent(jid, proto.Message.fromObject({
+        templateMessage: {
+        hydratedTemplate: {
+        videoMessage: message.videoMessage,
+               "hydratedContentText": text,
+               "hydratedFooterText": footer,
+               "hydratedButtons": but
+            }
+            }
+            }), options)
+            NEXUS.relayMessage(jid, template.message, { messageId: template.key.id })
+    }
+
+    /** Send Button 5 Gif
+     *
+     * @param {*} jid
+     * @param {*} text
+     * @param {*} footer
+     * @param {*} Gif
+     * @param [*] button
+     * @param {*} options
+     * @returns
+     */
+    NEXUS.send5ButGif = async (jid , text = '' , footer = '', gif, but = [], options = {}) =>{
+        let message = await prepareWAMessageMedia({ video: gif, gifPlayback: true }, { upload: NEXUS.waUploadToServer })
+        var template = generateWAMessageFromContent(jid, proto.Message.fromObject({
+        templateMessage: {
+        hydratedTemplate: {
+        videoMessage: message.videoMessage,
+               "hydratedContentText": text,
+               "hydratedFooterText": footer,
+               "hydratedButtons": but
+            }
+            }
+            }), options)
+            NEXUS.relayMessage(jid, template.message, { messageId: template.key.id })
+    }
+
+    /**
+     * 
+     * @param {*} jid 
+     * @param {*} buttons 
+     * @param {*} caption 
+     * @param {*} footer 
+     * @param {*} quoted 
+     * @param {*} options 
+     */
+    NEXUS.sendButtonText = (jid, buttons = [], text, footer, quoted = '', options = {}) => {
+        let buttonMessage = {
+            text,
+            footer,
+            buttons,
+            headerType: 2,
+            ...options
+        }
+        NEXUS.sendMessage(jid, buttonMessage, { quoted, ...options })
+    }
+    
+    /**
+     * 
+     * @param {*} jid 
+     * @param {*} text 
+     * @param {*} quoted 
+     * @param {*} options 
+     * @returns 
+     */
+    NEXUS.sendText = (jid, text, quoted = '', options) => NEXUS.sendMessage(jid, { text: text, ...options }, { quoted })
+
+    /**
+     * 
+     * @param {*} jid 
+     * @param {*} path 
+     * @param {*} caption 
+     * @param {*} quoted 
+     * @param {*} options 
+     * @returns 
+     */
+    NEXUS.sendImage = async (jid, path, caption = '', quoted = '', options) => {
+	let buffer = Buffer.isBuffer(path) ? path : /^data:.*?\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,`[1], 'base64') : /^https?:\/\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync(path) : Buffer.alloc(0)
+        return await NEXUS.sendMessage(jid, { image: buffer, caption: caption, ...options }, { quoted })
+    }
+
+    /**
+     * 
+     * @param {*} jid 
+     * @param {*} path 
+     * @param {*} caption 
+     * @param {*} quoted 
+     * @param {*} options 
+     * @returns 
+     */
+    NEXUS.sendVideo = async (jid, path, caption = '', quoted = '', gif = false, options) => {
+        let buffer = Buffer.isBuffer(path) ? path : /^data:.*?\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,`[1], 'base64') : /^https?:\/\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync(path) : Buffer.alloc(0)
+        return await NEXUS.sendMessage(jid, { video: buffer, caption: caption, gifPlayback: gif, ...options }, { quoted })
+    }
+
+    /**
+     * 
+     * @param {*} jid 
+     * @param {*} path 
+     * @param {*} quoted 
+     * @param {*} mime 
+     * @param {*} options 
+     * @returns 
+     */
+    NEXUS.sendAudio = async (jid, path, quoted = '', ptt = false, options) => {
+        let buffer = Buffer.isBuffer(path) ? path : /^data:.*?\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,`[1], 'base64') : /^https?:\/\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync(path) : Buffer.alloc(0)
+        return await NEXUS.sendMessage(jid, { audio: buffer, ptt: ptt, ...options }, { quoted })
+    }
+
+    /**
+     * 
+     * @param {*} jid 
+     * @param {*} text 
+     * @param {*} quoted 
+     * @param {*} options 
+     * @returns 
+     */
+    NEXUS.sendTextWithMentions = async (jid, text, quoted, options = {}) => NEXUS.sendMessage(jid, { text: text, contextInfo: { mentionedJid: [...text.matchAll(/@(\d{0,16})/g)].map(v => v[1] + '@s.whatsapp.net') }, ...options }, { quoted })
+
+    /**
+     * 
+     * @param {*} jid 
+     * @param {*} path 
+     * @param {*} quoted 
+     * @param {*} options 
+     * @returns 
+     */
+    NEXUS.sendImageAsSticker = async (jid, path, quoted, options = {}) => {
+        let buff = Buffer.isBuffer(path) ? path : /^data:.*?\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,`[1], 'base64') : /^https?:\/\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync(path) : Buffer.alloc(0)
+        let buffer
+        if (options && (options.packname || options.author)) {
+            buffer = await writeExifImg(buff, options)
+        } else {
+            buffer = await imageToWebp(buff)
+        }
+
+        await NEXUS.sendMessage(jid, { sticker: { url: buffer }, ...options }, { quoted })
+        return buffer
+    }
+
+    /**
+     * 
+     * @param {*} jid 
+     * @param {*} path 
+     * @param {*} quoted 
+     * @param {*} options 
+     * @returns 
+     */
+    NEXUS.sendVideoAsSticker = async (jid, path, quoted, options = {}) => {
+        let buff = Buffer.isBuffer(path) ? path : /^data:.*?\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,`[1], 'base64') : /^https?:\/\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync(path) : Buffer.alloc(0)
+        let buffer
+        if (options && (options.packname || options.author)) {
+            buffer = await writeExifVid(buff, options)
+        } else {
+            buffer = await videoToWebp(buff)
+        }
+
+        await NEXUS.sendMessage(jid, { sticker: { url: buffer }, ...options }, { quoted })
+        return buffer
+    }
+	
+    /**
+     * 
+     * @param {*} message 
+     * @param {*} filename 
+     * @param {*} attachExtension 
+     * @returns 
+     */
+    NEXUS.downloadAndSaveMediaMessage = async (message, filename, attachExtension = true) => {
+        let quoted = message.msg ? message.msg : message
+        let mime = (message.msg || message).mimetype || ''
+        let messageType = message.mtype ? message.mtype.replace(/Message/gi, '') : mime.split('/')[0]
+        const stream = await downloadContentFromMessage(quoted, messageType)
+        let buffer = Buffer.from([])
+        for await(const chunk of stream) {
+            buffer = Buffer.concat([buffer, chunk])
+        }
+	let type = await FileType.fromBuffer(buffer)
+        trueFileName = attachExtension ? (filename + '.' + type.ext) : filename
+        // save to file
+        await fs.writeFileSync(trueFileName, buffer)
+        return trueFileName
+    }
+
+    NEXUS.downloadMediaMessage = async (message) => {
+        let mime = (message.msg || message).mimetype || ''
+        let messageType = message.mtype ? message.mtype.replace(/Message/gi, '') : mime.split('/')[0]
+        const stream = await downloadContentFromMessage(message, messageType)
+        let buffer = Buffer.from([])
+        for await(const chunk of stream) {
+            buffer = Buffer.concat([buffer, chunk])
+	}
+        
+	return buffer
+     } 
+    
+    /**
+     * 
+     * @param {*} jid 
+     * @param {*} path 
+     * @param {*} filename
+     * @param {*} caption
+     * @param {*} quoted 
+     * @param {*} options 
+     * @returns 
+     */
+    NEXUS.sendMedia = async (jid, path, fileName = '', caption = '', quoted = '', options = {}) => {
+        let types = await NEXUS.getFile(path, true)
+           let { mime, ext, res, data, filename } = types
+           if (res && res.status !== 200 || file.length <= 65536) {
+               try { throw { json: JSON.parse(file.toString()) } }
+               catch (e) { if (e.json) throw e.json }
+           }
+       let type = '', mimetype = mime, pathFile = filename
+       if (options.asDocument) type = 'document'
+       if (options.asSticker || /webp/.test(mime)) {
+        let { writeExif } = require('./lib/exif')
+        let media = { mimetype: mime, data }
+        pathFile = await writeExif(media, { packname: options.packname ? options.packname : global.packname, author: options.author ? options.author : global.author, categories: options.categories ? options.categories : [] })
+        await fs.promises.unlink(filename)
+        type = 'sticker'
+        mimetype = 'image/webp'
+        }
+       else if (/image/.test(mime)) type = 'image'
+       else if (/video/.test(mime)) type = 'video'
+       else if (/audio/.test(mime)) type = 'audio'
+       else type = 'document'
+       await NEXUS.sendMessage(jid, { [type]: { url: pathFile }, caption, mimetype, fileName, ...options }, { quoted, ...options })
+       return fs.promises.unlink(pathFile)
+       }
+
+    /**
+     * 
+     * @param {*} jid 
+     * @param {*} message 
+     * @param {*} forceForward 
+     * @param {*} options 
+     * @returns 
+     */
+    NEXUS.copyNForward = async (jid, message, forceForward = false, options = {}) => {
+        let vtype
+		if (options.readViewOnce) {
+			message.message = message.message && message.message.ephemeralMessage && message.message.ephemeralMessage.message ? message.message.ephemeralMessage.message : (message.message || undefined)
+			vtype = Object.keys(message.message.viewOnceMessage.message)[0]
+			delete(message.message && message.message.ignore ? message.message.ignore : (message.message || undefined))
+			delete message.message.viewOnceMessage.message[vtype].viewOnce
+			message.message = {
+				...message.message.viewOnceMessage.message
+			}
+		}
+
+        let mtype = Object.keys(message.message)[0]
+        let content = await generateForwardMessageContent(message, forceForward)
+        let ctype = Object.keys(content)[0]
+		let context = {}
+        if (mtype != "conversation") context = message.message[mtype].contextInfo
+        content[ctype].contextInfo = {
+            ...context,
+            ...content[ctype].contextInfo
+        }
+        const waMessage = await generateWAMessageFromContent(jid, content, options ? {
+            ...content[ctype],
+            ...options,
+            ...(options.contextInfo ? {
+                contextInfo: {
+                    ...content[ctype].contextInfo,
+                    ...options.contextInfo
+                }
+            } : {})
+        } : {})
+        await NEXUS.relayMessage(jid, waMessage.message, { messageId:  waMessage.key.id })
+        return waMessage
+    }
+
+    NEXUS.cMod = (jid, copy, text = '', sender = NEXUS.user.id, options = {}) => {
+        //let copy = message.toJSON()
+		let mtype = Object.keys(copy.message)[0]
+		let isEphemeral = mtype === 'ephemeralMessage'
+        if (isEphemeral) {
+            mtype = Object.keys(copy.message.ephemeralMessage.message)[0]
+        }
+        let msg = isEphemeral ? copy.message.ephemeralMessage.message : copy.message
+		let content = msg[mtype]
+        if (typeof content === 'string') msg[mtype] = text || content
+		else if (content.caption) content.caption = text || content.caption
+		else if (content.text) content.text = text || content.text
+		if (typeof content !== 'string') msg[mtype] = {
+			...content,
+			...options
+        }
+        if (copy.key.participant) sender = copy.key.participant = sender || copy.key.participant
+		else if (copy.key.participant) sender = copy.key.participant = sender || copy.key.participant
+		if (copy.key.remoteJid.includes('@s.whatsapp.net')) sender = sender || copy.key.remoteJid
+		else if (copy.key.remoteJid.includes('@broadcast')) sender = sender || copy.key.remoteJid
+		copy.key.remoteJid = jid
+		copy.key.fromMe = sender === NEXUS.user.id
+
+        return proto.WebMessageInfo.fromObject(copy)
+    }
+
+
+    /**
+     * 
+     * @param {*} path 
+     * @returns 
+     */
+    NEXUS.getFile = async (PATH, save) => {
+        let res
+        let data = Buffer.isBuffer(PATH) ? PATH : /^data:.*?\/.*?;base64,/i.test(PATH) ? Buffer.from(PATH.split`,`[1], 'base64') : /^https?:\/\//.test(PATH) ? await (res = await getBuffer(PATH)) : fs.existsSync(PATH) ? (filename = PATH, fs.readFileSync(PATH)) : typeof PATH === 'string' ? PATH : Buffer.alloc(0)
+        //if (!Buffer.isBuffer(data)) throw new TypeError('Result is not a buffer')
+        let type = await FileType.fromBuffer(data) || {
+            mime: 'application/octet-stream',
+            ext: '.bin'
+        }
+        filename = path.join(__filename, './src/' + new Date * 1 + '.' + type.ext)
+        if (data && save) fs.promises.writeFile(filename, data)
+        return {
+            res,
+            filename,
+	    size: await getSizeMedia(data),
+            ...type,
+            data
+        }
+
+    }
+
+    return NEXUS
+}
+
+startNEXUS()
+
+
+let file = require.resolve(__filename)
+fs.watchFile(file, () => {
+	fs.unwatchFile(file)
+	console.log(chalk.redBright(`Update ${__filename}`))
+	delete require.cache[file]
+	require(file)
+})
