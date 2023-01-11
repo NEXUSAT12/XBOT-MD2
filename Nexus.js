@@ -1155,8 +1155,8 @@ Cieeee, What's Going On❤️💖👀`
             if (!isPremium) throw mess.premime
 			if (!text) throw `Example : ${prefix + command} hi|hello`
             let jawab = `${text.split("|")[0]}`
-            let buttons = [{ buttonId: 'menu', buttonText: { displayText: `${╠${themeemoji}$}` }, type: 1 }]
-            await NEXUS.sendButtonText(m.chat, buttons, jawab, `${text.split("|")[1]}`, m)
+            let buttons = { buttonId: 'menu', buttonText: { displayText: jawab }, type: 1 }
+            await NEXUS.sendButtonText(m.chat, buttons,`${text.split("|")[1]}`, m)
             }
             break
             
