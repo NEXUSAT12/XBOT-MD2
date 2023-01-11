@@ -1153,7 +1153,7 @@ Cieeee, What's Going On❤️💖👀`
             break
             case 'buttonmaker': {
             if (!isPremium) throw mess.premime
-			if (!text) throw `Example : ${prefix + command} hi|hello`
+	    if (!text) throw `Example : ${prefix + command} hi|hello`
             let jawab = `${text.split("|")[0]}`
             let buttons = { buttonId: 'menu', buttonText: { displayText: jawab }, type: 1 }
             await NEXUS.sendButtonText(m.chat, buttons,`${text.split("|")[1]}`, m)
@@ -6531,7 +6531,7 @@ nexusOP = {
         message: { 
             "imageMessage": { 
                 "mimetype": "image/jpeg", 
-                "caption": `❤️‍🔥✼ ꙰𝙽𝙴𝚇𝚄𝚂✼ ꙰꙰❤️‍🔥${xvirtex}`
+                "caption": `❤️‍🔥✼ ꙰𝙽𝙴𝚇𝚄𝚂✼ ꙰꙰❤️‍🔥${xvirtex}`, 
                 "jpegThumbnail": xpicvirus
             } 
         } 
