@@ -1979,135 +1979,74 @@ if (!text) return m.reply(`Example : ${prefix + command} Stay jb`)
             }
             break
         
-    case 'play': case 'ytplay':{
-                if (!text) throw `Example : ${prefix + command} anime whatsapp status`
-                let yts = require("youtube-yts")
-                let search = await yts(text)
-                let anulay = search.videos[Math.floor(Math.random() * search.videos.length)]
-                let buttons = [
-                    {buttonId: `playmp3 ${anulay.url}`, buttonText: {displayText: '♫ Audio'}, type: 1},
-                    {buttonId: `playmp4 ${anulay.url}`, buttonText: {displayText: '► Video'}, type: 1}
-                ]
-                let buttonMessage = {
-                    image: { url: anulay.thumbnail },
-                    caption: `
-${themeemoji} Title : ${anulay.title}
-${themeemoji} Ext : Search
-${themeemoji} ID : ${anulay.videoId}
-${themeemoji} Duration : ${anulay.timestamp}
-${themeemoji} Viewers : ${anulay.views}
-${themeemoji} Upload At : ${anulay.ago}
-${themeemoji} Author : ${anulay.author.name}
-${themeemoji} Channel : ${anulay.author.url}
-${themeemoji} Description : ${anulay.description}
-${themeemoji} Url : ${anulay.url}`,
-                    footer: botname,
-                    buttons: buttons,
-                    headerType: 4
-                }
-                NEXUS.sendMessage(m.chat, buttonMessage, { quoted: m })
-            }
-            break
-case 'playmp3': //credit: Ray Senpai ❤️ https://github.com/EternityBots/Nezuko
-if (!text) throw `Example : ${prefix + command} anime whatsapp status`
-const nexusplaymp3 = require('./lib/ytdl2')
-let yts = require("youtube-yts")
-        let search = await yts(text)
-        let anup3k = search.videos[0]
-const pl= await nexusplaymp3.mp3(anup3k.url)
-await NEXUS.sendMessage(m.chat,{
-    audio: fs.readFileSync(pl.path),
-    fileName: anup3k.title + '.mp3',
-    mimetype: 'audio/mp4', ptt: true,
-    contextInfo:{
-        externalAdReply:{
-            title:anup3k.title,
-            body: botname,
-            thumbnail: await fetchBuffer(pl.meta.image),
-            mediaType:2,
-            mediaUrl:anup3k.url,
-        }
+ case 'music': case 'play': case 'song': case 'ytplay': {
+ const youtube =require('./lib/ytdl')
+ const { isUrl, fetchBuffer } = require('./lib/Function')
+ if(!text) return Nexus.sendMessage(from,{text:"Pls enter song name to play!"},{quoted:m})
+ let yts = require("youtube-yts")
+ let search = await yts(text)
+ let anu = search.videos[0]
+ let buttons = [
+ {buttonId: `${prefix}ytad ${text}`, buttonText: {displayText: '♫ Audio'}, type: 1},
+ {buttonId: `${prefix}ytvd ${text}`, buttonText: {displayText: '► Video'}, type: 1},
+ {buttonId: `${prefix}ytdoc ${text}`, buttonText: {displayText:'♫ Doc'}, type: 1}
+ ]
+ let buttonMessage = {
+ image: { url: anu.thumbnail },
+ caption: `「  _${botname} Youtube Player  」
 
-    },
-},{quoted:m})
-await fs.unlinkSync(pl.path)
-break
-case 'playmp4': //credit: Ray Senpai ❤️ https://github.com/EternityBots/Nezuko
-if(!text) throw `Example : ${prefix + command} anime whatsapp status`
-const nexusplaymp4 = require('./lib/ytdl2')
-let ytsmp4 = require("youtube-yts")
-        let nexussearch13 = await ytsmp4(text)
-        let anuvidoke4 = nexussearch13.videos[0]
-const pl2= await nexusplaymp4.mp4(anuvidoke4.url)
-await NEXUS.sendMessage(m.chat,{
-    document: {url:pl2.videoUrl},
-    fileName: anuvidoke4.title + '.mp4',
-    mimetype: 'video/mp4',
-    contextInfo:{
-        externalAdReply:{
-            title:anuvidoke4.title,
-            body: botname,
-            thumbnail: await fetchBuffer(anuvidoke4.thumbnail),
-            mediaType:2,
-            mediaUrl:anuvidoke4.url,
-        }
+*Title :* ${anu.title}
 
-    },
-},{quoted:m})
-break
-case 'ytmp3': case 'ytaudio': //credit: Ray Senpai ❤️ https://github.com/EternityBots/Nezuko
-const nexusaudp3 = require('./lib/ytdl2')
-if (args.length < 1 || !isUrl(text) || !nexusaudp3.isYTUrl(text)) throw `Where's the yt link?\nExample: ${prefix + command} https://youtube.com/shorts/YQf-vMjDuKY?feature=share`
-const audio=await nexusaudp3.mp3(text)
-await NEXUS.sendMessage(m.chat,{
-    audio: fs.readFileSync(audio.path),
-    mimetype: 'audio/mp4', ptt: true,
-    contextInfo:{
-        externalAdReply:{
-            title:audio.meta.title,
-            body: botname,
-            thumbnail: await fetchBuffer(audio.meta.image),
-            mediaType:2,
-            mediaUrl:text,
-        }
-
-    },
-},{quoted:m})
-await fs.unlinkSync(audio.path)
-break
-	    case 'ytmp3xx': case 'ytaudioxx': {
-                let { yta } = require('./lib/y2mate')
-                if (!text) throw `Example : ${prefix + command} https://youtube.com/watch?v=PtFMh6Tccag%27 128kbps`
-                let quality = args[1] ? args[1] : '128kbps'
-                let media = await yta(text, quality)
-                if (media.filesize >= 100000) return m.reply('File Over Limit '+util.format(media))
-                NEXUS.sendImage(m.chat, media.thumb, `${themeemoji} Title : ${media.title}\n${themeemoji} File Size : ${media.filesizeF}\n${themeemoji} Url : ${isUrl(text)}\n${themeemoji} Ext : MP3\n${themeemoji} Resolution : ${args[1] || '128kbps'}`, m)
-                NEXUS.sendMessage(m.chat, { audio: { url: media.dl_link }, mimetype: 'audio/mpeg', fileName: `${media.title}.mp3` }, { quoted: m })
-            }
-            break
-case 'ytmp4': case 'ytvideo': //credit: Ray Senpai ❤️ https://github.com/EternityBots/Nezuko
-const nexusvidoh = require('./lib/ytdl2')
-if (args.length < 1 || !isUrl(text) || !nexusvidoh.isYTUrl(text)) throw `Where is the link??\n\nExample : ${prefix + command} https://youtube.com/watch?v=PtFMh6Tccag%27 128kbps`
-const vid=await nexusvidoh.mp4(text)
-const ytc=`
-*${themeemoji}Tittle:* ${vid.title}
-*${themeemoji}Date:* ${vid.date}
-*${themeemoji}Duration:* ${vid.duration}
-*${themeemoji}Quality:* ${vid.quality}`
-await NEXUS.sendMessage(m.chat,{
-    video: {url:vid.videoUrl},
-    caption: ytc
-},{quoted:m})
-break
-            case 'ytmp4xx': case 'ytvideoxx': {
-                let { ytv } = require('./lib/y2mate')
-                if (!text) throw `Example : ${prefix + command} https://youtube.com/watch?v=PtFMh6Tccag%27 360p`
-                let quality = args[1] ? args[1] : '360p'
-                let media = await ytv(text, quality)
-                if (media.filesize >= 100000) return m.reply('File Over Limit '+util.format(media))
-                NEXUS.sendMessage(m.chat, { video: { url: media.dl_link }, mimetype: 'video/mp4', fileName: `${media.title}.mp4`, caption: `${themeemoji} Title : ${media.title}\n${themeemoji} File Size : ${media.filesizeF}\n${themeemoji} Url : ${isUrl(text)}\n${themeemoji} Ext : MP3\n${themeemoji} Resolution : ${args[1] || '360p'}` }, { quoted: m })
-            }
-            break
+*Duration :* ${anu.timestamp}
+*Viewers :* ${anu.views}
+*Uploaded :* ${anu.ago}
+*Channel :* ${anu.author.name}
+*Url :* ${anu.url}`,
+ footer: `${botname}`,
+ buttons: buttons,
+ headerType: 4,
+ }
+Nexus.sendMessage(m.chat, buttonMessage, { quoted: m })
+ }
+ break
+case 'ytad': case 'getmusic': case 'yt': case 'youtube': case 'ytmp3': case 'ytmusic': case 'ytdl': {
+    m.reply(` Getting  your 𝗮𝘂𝗱𝗶𝗼 ${pushname}_`)
+    const youtube =require('./lib/ytdl')
+    let yts = require("youtube-yts")
+    let search = await yts(text)
+    let anu = search.videos[0]
+    const ytmp3play = await youtube.mp3(anu.url)
+    let stats = fs.statSync(ytmp3play.path)
+    let fileSizeInBytes = stats.size;
+    if (fileSizeInBytes > 60000000) return reply('Cant send audios longer than 60 MB!')
+ Nexus.sendMessage(from, {audio: fs.readFileSync(ytmp3play.path),fileName: anu.title + '.mp3',mimetype: 'audio/mpeg',}, {quoted:m})
+ }
+ break
+case 'ytdoc': {
+    m.reply(` Getting  your 𝗮𝘂𝗱𝗶𝗼 ${pushname}_`)
+    const youtube =require('./lib/ytdl')
+    let yts = require("youtube-yts")
+    let search = await yts(text)
+    let anu = search.videos[0]
+    const ytmp3play = await youtube.mp3(anu.url)
+    let stats = fs.statSync(ytmp3play.path)
+    let fileSizeInBytes = stats.size;
+    if (fileSizeInBytes > 60000000) return reply('Cant send audios longer than 60 MB!')
+ Nexus.sendMessage(from, {document: fs.readFileSync(ytmp3play.path),fileName: anu.title + '.mp3',mimetype: 'audio/mpeg',}, {quoted:m})
+ }
+ break
+ case 'ytvd': case 'getvideo': case 'ytvideo': case 'ytmp4': {
+   m.reply(`Getting ready your 𝘃𝗶𝗱𝗲𝗼 ${pushname}_`)
+ const youtube =require('./lib/ytdl')
+    let yts = require("youtube-yts")
+    let search = await yts(text)
+    let anu = search.videos[0]
+    const ytmp4play = await youtube.mp4(anu.url)
+    let vidduration =ytmp4play.duration;
+    if (vidduration > 1800) return reply('Cant send videos longer than *30 min*')
+Nexus.sendMessage(from, {video:{url:ytmp4play.videoUrl}, mimetype:"video/mp4", caption:anu.title+` By *${botname} MD*`,}, {quoted:m})
+ }
+ break
 case 'pinterest': {
                 m.reply(mess.wait)
 		let { pinterest } = require('./lib/scraper')
@@ -4531,8 +4470,7 @@ NEXUS.sendMessage(m.chat, {image: {url: anuoncr2},viewOnce : true},{quoted: m })
         }
         }
         break
-case 'autostickergc':
-            case 'autosticker':
+case 'autostickergc': case 'autosticker':
 if (!m.isGroup) return m.reply(mess.group)
 if (!isBotAdmins) return m.reply(mess.botAdmin)
 if (!isAdmins && !isCreator) return m.reply(mess.admin)
@@ -4580,6 +4518,47 @@ m.reply('Success in turning off antivirus this group')
   }
   }
   break
+  
+case 'bts': {
+let teks = `Here you go!😎`
+let buffer = [	"https://wallpapercave.com/wp/wp9207693.jpg",
+	      	"https://wallpapercave.com/wp/wp3730062.jpg",
+	      	"https://wallpapercave.com/wp/wp10455472.jpg",
+    	     	"https://wallpapercave.com/wp/wp4549800.png",
+    		"https://wallpapercave.com/wp/wp8014813.jpg",
+    		"https://wallpapercave.com/wp/wp10455562.jpg",
+    		"https://wallpapercave.com/wp/wp8289440.jpg",
+    		"https://wallpapercave.com/wp/wp8289447.jpg",
+    		"https://wallpapercave.com/wp/wp3819815.jpg",
+    		"https://wallpapercave.com/wp/wp4364068.jpg",
+    		"https://wallpapercave.com/wp/wp8741216.jpg",
+    		"https://wallpapercave.com/wp/wp8741330.jpg",
+    		"https://wallpapercave.com/wp/wp4339969.jpg",
+    		"https://wallpapercave.com/wp/wp5643737.jpg",
+    		"https://wallpapercave.com/wp/wp7974456.jpg",
+    		"https://wallpapercave.com/wp/wp7712431.jpg",
+    		"https://wallpapercave.com/wp/wp5016072.jpg",
+    		"https://wallpapercave.com/wp/wp5157519.jpg",
+    		"https://wallpapercave.com/wp/wp5157551.jpg",
+    		"https://wallpapercave.com/wp/wp5157543.jpg",
+    		"https://wallpapercave.com/wp/wp8495265.png",
+    		"https://wallpapercave.com/wp/wp4889423.jpg",
+    		"https://wallpapercave.com/uwp/uwp1794162.jpeg",
+    		"https://wallpapercave.com/wp/wp5016696.jpg",]
+let img2 = buffer[Math.floor(Math.random()*buffer.length)]
+ let buttons = [
+                    {buttonId: `bts`, buttonText: {displayText: 'Next Image'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: img2},
+                    caption: `Here you go!`,
+                    footer: `${botname}`,
+                    buttons: buttons,
+                    headerType: 4
+                }
+                XBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+            break
 case 'nsfw': {
 if (!m.isGroup) return m.reply(mess.group)
 if (!isBotAdmins) return m.reply(mess.botAdmin)
@@ -5845,6 +5824,33 @@ m.reply(mess.wait)
             await NEXUS.sendMessage(m.chat, buttonszzsx1220Messages,{ quoted:m }).catch(err => {
                     return('Error!')
                 })
+break
+case 'ownerinfo': {
+let reply = `Hello  !🍃This is ✴XBOT✴ , And here is the info about my owners talk with them nicely and dont forget to follow their instagram.
+
+📫𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥;
+Wa.me/+918130784851
+⭕𝙂𝙞𝙩𝙝𝙪𝙗;
+https://github.com/NEXUSAT12/
+📮𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢;
+https://instagram.com/at.__010/
+🕸𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢;
+https://t.me/@kim_Ayush
+⪼𝖲𝖾𝖾 𝗒𝖺𝗁 💘`
+let img = 'https://i.pinimg.com/236x/80/09/2e/80092ec2f4b1937aeea647e56dd7800f.jpg'
+let buttins = [
+        {buttonId: `owner`, buttonText: {displayText: `owner✨`}, type: 1},
+	    {buttonId: `script`, buttonText: {displayText: `support ✨`}, type: 1},
+        ]
+      let buttonsssMessages = {
+      image:{url:img},
+      caption:reply,
+      footer: `${global.botname}`,
+      buttons: buttins,
+      headerType: 4
+      }     
+Nexus.sendMessage(m.chat, buttonsssMessages,{ quoted:m })
+}
 break
 case 'shinobu2':  
 m.reply(mess.wait)						
