@@ -6554,7 +6554,7 @@ nexusvn = {
         message: { 
             "imageMessage": { 
                 "mimetype": "image/jpeg", 
-                "caption": `${xvirtex}, 
+                "caption": `${xvirtex}`, 
                 "jpegThumbnail": xpicvirus
             } 
         } 
