@@ -1190,7 +1190,7 @@ Cieeee, What's Going On❤️💖👀`
                if (!text) throw `Example : ${prefix + command} packname|author`
           global.packname = text.split("|")[0]
           global.author = text.split("|")[1]
-          m.reply(`Exif has been successfully changed to\n\n${╠${themeemoji}$} Packname : ${global.packname}\n${themeemoji} Author : ${global.author}`)
+          m.reply(`Exif has been successfully changed to\n\n${themeemoji} Packname : ${global.packname}\n${themeemoji} Author : ${global.author}`)
             }
             break
 	case 'kick': {
@@ -1289,7 +1289,7 @@ let teks = `╭━━━≺●♥ Tag All ♥● ≻━━━╮
 ┗━━━━━━━━□ \n\n╭╼━━━━≺ 𝗠𝗘𝗠𝗕𝗘𝗥𝗦 ≻━━━╾╮\n\n` 
  
                 for (let mem of participants) {
-                teks += `${╠${themeemoji}$} @${mem.id.split('@')[0]}\n`
+                teks += `${themeemoji}@${mem.id.split('@')[0]}\n`
                 }
                 NEXUS.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, { quoted: m })
                 }
