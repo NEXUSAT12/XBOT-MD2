@@ -145,14 +145,14 @@ let docs = pickRandom(documents)
                 try {
                     ppuser = await NEXUS.profilePictureUrl(num, 'image')
                 } catch {
-                    ppuser = 'https://i.ibb.co/sbqvDMw/avatar-contact-large-v2.png'
+                    ppuser = `https://instagram.com/at.__010/`
                 }
 
                 // Get Profile Picture Group
                 try {
                     ppgroup = await zass.profilePictureUrl(anu.id, 'image')
                 } catch {
-                    ppgroup = 'https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png'
+                    ppgroup = `https://instagram.com/at.__010/`
                 }
 
                 //welcome\\
@@ -167,9 +167,10 @@ nexusLft = await getBuffer(ppuser)
 	            const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: nexusWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'nexus', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                nexusbody = `┌─❖
-│「 𝗛𝗶 👋 」
-└┬❖ 「 @${nexusName.split("@")[0]}  」
+                nexusbody = `    ᥬ☤ ⃝◡̈🆆𝐄𝐋𝐂𝐎𝐌𝐄◡̈⃝︎☤​᭄
+┌─❖
+│ 「 @${nexusName.split("@")[0]}  」
+└┬❖ 
    │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
    │✑  ${metadata.subject}
    │✑  𝗠𝗲𝗺𝗯𝗲𝗿 : 
@@ -195,7 +196,7 @@ contextInfo:{externalAdReply:{
 title: `${ownername}`,
 body: `Don't forget to read group description`,
 mediaType:2,
-thumbnail: nexusWlcm,
+thumbnail: {url: `https://instagram.com/at.__010/`},
 sourceUrl: `${websitex}`,
 mediaUrl: `${websitex}`
 }}
@@ -208,9 +209,10 @@ NEXUS.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                 	let nexusName = num
                     const nexusmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: nexusbuffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'nexus', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                    nexusbody = `┌─❖
-│「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 👋 」
-└┬❖ 「 @${nexusName.split("@")[0]}  」
+                    nexusbody = `     ᥬ☤ ⃝◡̈🅻𝐄𝐅𝐓◡̈⃝︎☤​᭄
+┌─❖
+│「 @${nexusName.split("@")[0]}  」
+└┬❖ 
    │✑  𝗟𝗲𝗳𝘁 
    │✑ ${metadata.subject}
    │✑  𝗠𝗲𝗺𝗯𝗲𝗿 : 
@@ -236,7 +238,7 @@ contextInfo:{externalAdReply:{
 title: `${ownername}`,
 body: `Bye! my friend, take care.`,
 mediaType:2,
-thumbnail: nexusLft,
+thumbnail: {url: `https://instagram.com/at.__010/`},
 sourceUrl: `${websitex}`,
 mediaUrl: `${websitex}`
 }}
