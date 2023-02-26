@@ -33,7 +33,7 @@ const textpro = require('./lib/textpro')
 const { fetchBuffer } = require("./lib/myfunc2")
 const { smsg, formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, runtime, fetchJson, getBuffer, jsonformat, format, parseMention, getRandom, getGroupAdmins } = require('./lib/myfunc')
 const ini_mark = `0@s.whatsapp.net`
-const ownernya = ownernomer + '@s.whatsapp.net
+const ownernya = ownernomer + '@s.whatsapp.net'
 
 //TIME
 const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
