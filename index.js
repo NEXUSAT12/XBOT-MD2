@@ -157,9 +157,9 @@ let docs = pickRandom(documents)
 
                 //welcome\\
         let nama = await NEXUS.getName(num)
-memb = metadata.participants.length
-nexusWlcm = await getBuffer(ppuser)
-nexusLft = await getBuffer(ppuser)
+let memb = metadata.participants.length
+let nexusWlcm = await getBuffer(ppuser)
+let nexusLft = await getBuffer(ppuser)
                 if (anu.action == 'add') {
                 const nexusbuffer = await getBuffer(ppuser)
                 let nexusName = num
@@ -167,7 +167,7 @@ nexusLft = await getBuffer(ppuser)
 	            const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: nexusWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'nexus', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                nexusbody = `     
+                let nexusbody = `     
 
   @${nexusName.split("@")[0]}  
  
@@ -179,7 +179,7 @@ nexusLft = await getBuffer(ppuser)
     ${xtime} ${xdate}
     `
 let buttons = [
-{buttonId: `wkwwk`, buttonText: {displayText: 'Welcome '}, type: 1}
+{buttonId: ` command`, buttonText: {displayText: 'Welcome '}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./XBOTMedia/theme/XBOT.xlsx'),
@@ -197,7 +197,7 @@ title: `${ownername}`,
 body: `Don't forget to read group description`,
 mediaType:2,
 thumbnail: {url: `https://www.instagram.com/p/CnmkoQwjSrdhq5evP1-HTNqMJ-IwKQWedmZNR40/?igshid=YmMyMTA2M2Y=`},
-sourceUrl: 'https://linktr.ee/Nexus_21/'
+sourceUrl: 'https://linktr.ee/Nexus_21/',
 mediaUrl: 'https://youtu.be/laQABrPDlFw'
 }}
 }
@@ -209,7 +209,7 @@ NEXUS.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                 	let nexusName = num
                     const nexusmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: nexusbuffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'nexus', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                    nexusbody = `      
+                    let  nexusbody = `      
 
  @${nexusName.split("@")[0]}  
  
@@ -221,7 +221,7 @@ NEXUS.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
      ${nexustime} ${nexusdate}
     `
 let buttons = [
-{buttonId: `wkwkwk`, buttonText: {displayText: 'Sayonara '}, type: 1}
+{buttonId: `help`, buttonText: {displayText: 'Sayonara '}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./XBOTMedia/theme/XBOT.xlsx'),
