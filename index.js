@@ -167,17 +167,16 @@ let nexusLft = await getBuffer(ppuser)
 	            const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: nexusWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'nexus', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                let nexusbody = `     
-
-  @${nexusName.split("@")[0]}  
- 
-       
-     ${metadata.subject}
-      : 
-    ${xmembers}th
-      : 
-    ${xtime} ${xdate}
-    `
+                let nexusbody = `\n╭──────༺♡༻──────╮
+@${nexusName.split("@")[0]}
+╰──────༺♡༻──────╯
+│
+╰⪼ *${metadata.subject}*
+╔══════✮❁•°♛°•❁✮ ═════╗
+║𝐌𝐄𝐌𝐁𝐄𝐑𝐒 : ${xmembers}th : 
+║𝐓𝐈𝐌𝐄✡𝐃𝐀𝐓𝐄:${xtime} ${xdate}
+╚══════✮❁•°❀°•❁✮══════╝
+`
 let buttons = [
 {buttonId: ` command`, buttonText: {displayText: 'Welcome '}, type: 1}
 ]
@@ -209,17 +208,16 @@ NEXUS.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                 	let nexusName = num
                     const nexusmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: nexusbuffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'nexus', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                    let  nexusbody = `      
-
- @${nexusName.split("@")[0]}  
- 
-      
-    ${metadata.subject}
-      : 
-    ${nexusmembers}th
-      : 
-     ${nexustime} ${nexusdate}
-    `
+                    let  nexusbody = `\n╭──────༺♡༻──────╮
+@${nexusName.split("@")[0]}
+╰──────༺♡༻──────╯
+│
+╰⪼${metadata.subject}
+╔══════✮❁•°♛°•❁✮ ═════╗
+║𝐌𝐄𝐌𝐁𝐄𝐑𝐒:${nexusmembers}th
+║𝐃𝐀𝐓𝐄✡︎𝐓𝐈𝐌𝐄:${nexustime} ${nexusdate}
+╚══════✮❁•°❀°•❁✮══════╝
+`
 let buttons = [
 {buttonId: `help`, buttonText: {displayText: 'Sayonara '}, type: 1}
 ]
