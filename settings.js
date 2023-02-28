@@ -32,14 +32,14 @@ global.premium = ['918130784851'] //ur premium number
 global.botname = '𓆩⍣⃝☣︎🆇-𝐁𝐎𝐓⃢√𝟐𓆪' //ur bot name
 global.linkz = "https://chat.whatsapp.com/KdCiUuENgOFEYJMHV3jZNj" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/@Nexus_1k" //ur website to be displayed
-global.botscript = 'https://github.com/NEXUSAT12/XBOT2' //script link
+global.botscript = 'https://github.com/NEXUSAT12/XBOT-MD2' //script link
 global.themeemoji = "🌹" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
 global.author = "XBOT\n\n\nA whatsapp bot developed by\n☤𝙣𝙚𝙭𝙪𝙨☤\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +91918130784851" //ur sticker watermark author
 global.wm = "☤꙰𝙈𝘼𝙎𝙏𝙀𝙍꥟𝙉𝙀𝙓𝙐𝙎☤꙰." //ur watermark
 // Other
 global.sessionName = 'session'
-global.prefa = ['','!','.','#','&']
+global.prefa = ['#']
 global.sp = ''
 
 //messages
