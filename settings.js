@@ -58,6 +58,21 @@ global.mess = {
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
 }
 
+//anti feature//
+
+global.ntvirtex = []
+global.nttoxic = []
+global.ntwame = []
+global.ntlinkgc = []
+global.ntilinkall = []
+global.ntilinktwt = []
+global.ntilinktt = []
+global.ntilinktg = []
+global.ntilinkfb = []
+global.ntilinkig = []
+global.ntilinkytch = []
+global.ntilinkytvid = []
+
 //media target
 global.thum = fs.readFileSync("./XBOTMedia/theme/XBOT.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XBOTMedia/theme/XBOT.jpg") //ur logo pic
