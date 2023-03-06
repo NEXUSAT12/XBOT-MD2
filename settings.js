@@ -27,7 +27,7 @@ global.socialm = "GitHub: NEXUSAT12" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.ownernomer = "918130784851" //ur number
+global.ownernomer = ['918130784851'] //ur number
 global.premium = ['918130784851'] //ur premium number
 global.botname = '𓆩⍣⃝☣︎🆇-𝐁𝐎𝐓⃢√𝟐𓆪' //ur bot name
 global.linkz = "https://chat.whatsapp.com/KdCiUuENgOFEYJMHV3jZNj" //your theme url which will be displayed on whatsapp
@@ -59,7 +59,7 @@ global.mess = {
 }
 
 //anti feature//
-
+global.ntnsfw = []
 global.ntvirtex = []
 global.nttoxic = []
 global.ntwame = []
